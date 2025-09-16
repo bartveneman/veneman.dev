@@ -6,8 +6,6 @@ tags:
   - settings
 ---
 
-https://twitter.com/HugoGiraudel/status/1365237163105939457
-
 [Kitty shares](https://kittygiraudel.com/snippets/vsc-lite/) some of their leave-me-alone settings for VS Code. I've tried them on my own device and _man_ what a relief! I only re-enabled Git, because I do find it useful most of the time.
 
 ```json

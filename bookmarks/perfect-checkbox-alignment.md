@@ -6,7 +6,7 @@ tags:
   - ux
 ---
 
-https://twitter.com/adamwathan/status/1217864323466432516
+[Source](https://twitter.com/adamwathan/status/1217864323466432516)
 
 ```html
 <div class="mt-4">
