@@ -3,17 +3,17 @@
 	"version": "0.0.0",
 	"license": "MIT",
 	"scripts": {
-		"start": "rm -rf _site; ENV=development eleventy --serve",
+		"dev": "rm -rf _site; ENV=development eleventy --serve",
 		"build": "eleventy"
 	},
+	"type": "module",
 	"devDependencies": {
-		"@11ty/eleventy": "^0.12.1",
-		"@11ty/eleventy-cache-assets": "^2.1.0",
-		"@11ty/eleventy-img": "^0.10.0",
-		"@11ty/eleventy-plugin-rss": "^1.1.1",
-		"@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
-		"cheerio": "^1.0.0-rc.5",
-		"csso": "^4.2.0",
-		"eleventy-plugin-youtube-embed": "^1.6.4"
+		"@11ty/eleventy": "^3.1.2",
+		"@11ty/eleventy-cache-assets": "^2.3.0",
+		"@11ty/eleventy-img": "^6.0.4",
+		"@11ty/eleventy-plugin-rss": "^2.0.4",
+		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
+		"cheerio": "^1.1.2",
+		"eleventy-plugin-youtube-embed": "^1.13.0"
 	}
 }

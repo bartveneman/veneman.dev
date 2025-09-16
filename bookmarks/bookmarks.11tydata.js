@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 	layout: 'bookmark',
 	permalink: '/bookmarks/{{ page.fileSlug | slug }}/index.html',
 	eleventyComputed: {
