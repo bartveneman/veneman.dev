@@ -6,7 +6,8 @@
 	"scripts": {
 		"dev": "rm -rf _site; ENV=development eleventy --serve",
 		"build": "eleventy",
-		"fetch:discogs": "node --env-file=.env scripts/fetch-discogs.js"
+		"fetch:discogs": "node --env-file=.env scripts/fetch-discogs.js",
+		"fetch:lastfm": "node --env-file=.env scripts/fetch-lastfm.js"
 	},
 	"type": "module",
 	"devDependencies": {
@@ -16,8 +17,7 @@
 		"@11ty/eleventy-plugin-rss": "^3.0.0",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
 		"eleventy-plugin-youtube-embed": "^1.13.2"
-	}
-	,
+	},
 	"engines": {
 		"node": ">=24"
 	}

@@ -10,6 +10,8 @@ extraJs: /_includes/listens.js
     <h1>Record collection</h1>
     <p>
       A wall of cover art from my record collection.
+    <br>
+    <small>Last updated: {{ "now" | date: "%d-%m-%Y %H:%M" }}</small>
     </p>
   </header>
 
@@ -45,14 +47,16 @@ extraJs: /_includes/listens.js
     </fieldset>
   </form>
 
-  <p id="listens-count"></p>
+  <p>
+    Showing <span id="listens-count">{{records.length}}</span> of {{records.length}} records.
+  </p>
 
   <ol role="list" id="listens-grid">
     {% for record in records %}
     <li
       data-format="{{ record.format }}"
       data-type="{{ record.type }}"
-      data-genres="{{ record.genres | join: ',' }}"
+      data-genres="{{ record.genres | join: '|' }}"
     >
       <a href="{{ record.discogsUrl }}" target="_blank" rel="external">
       <img
