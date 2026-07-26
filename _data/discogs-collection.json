@@ -1,0 +1,6413 @@
+[
+	{
+		"releaseId": 1731490,
+		"artist": "Racoon (4)",
+		"title": "Before You Leave",
+		"year": 2008,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [],
+		"cover": "/img/discogs/1731490.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1731490",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:33:26-07:00"
+	},
+	{
+		"releaseId": 7545716,
+		"artist": "Herman Finkers",
+		"title": "Koo Wit De Floo In Almelo",
+		"year": 2015,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Pop"
+		],
+		"styles": [
+			"Novelty"
+		],
+		"cover": "/img/discogs/7545716.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7545716",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:23:38-07:00"
+	},
+	{
+		"releaseId": 8545061,
+		"artist": "Herman Finkers",
+		"title": "Koo Wit De Floo In Almelo",
+		"year": 2015,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop"
+		],
+		"styles": [
+			"Novelty"
+		],
+		"cover": "/img/discogs/8545061.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8545061",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:24:15-07:00"
+	},
+	{
+		"releaseId": 1791639,
+		"artist": "Armin van Buuren",
+		"title": "Imagine - The Remixes",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic"
+		],
+		"styles": [
+			"Trance",
+			"Progressive Trance"
+		],
+		"cover": "/img/discogs/1791639.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1791639",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:30:33-07:00"
+	},
+	{
+		"releaseId": 846168,
+		"artist": "Supertramp",
+		"title": "Retrospectacle (The Supertramp Anthology)",
+		"year": 2005,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/846168.jpg",
+		"discogsUrl": "https://www.discogs.com/release/846168",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:35:53-07:00"
+	},
+	{
+		"releaseId": 1056986,
+		"artist": "Herb Alpert",
+		"title": "The Very Best Of",
+		"year": 1991,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Jazz",
+			"Funk / Soul"
+		],
+		"styles": [
+			"Latin Jazz",
+			"Easy Listening",
+			"Jazzdance",
+			"Disco"
+		],
+		"cover": "/img/discogs/1056986.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1056986",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:42:28-07:00"
+	},
+	{
+		"releaseId": 738864,
+		"artist": "The Police",
+		"title": "Every Breath You Take (The Classics)",
+		"year": 2003,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"New Wave",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/738864.jpg",
+		"discogsUrl": "https://www.discogs.com/release/738864",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:30:04-07:00"
+	},
+	{
+		"releaseId": 8093615,
+		"artist": "The Swell Season",
+		"title": "Strict Joy",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Folk"
+		],
+		"cover": "/img/discogs/8093615.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8093615",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:27:03-07:00"
+	},
+	{
+		"releaseId": 6675860,
+		"artist": "The Beatles",
+		"title": "Abbey Road",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/6675860.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6675860",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:09:32-07:00"
+	},
+	{
+		"releaseId": 32630034,
+		"artist": "The Beatles",
+		"title": "1",
+		"year": 2000,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock",
+			"Acoustic",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/32630034.jpg",
+		"discogsUrl": "https://www.discogs.com/release/32630034",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:05:14-07:00"
+	},
+	{
+		"releaseId": 8151886,
+		"artist": "Wings (2)",
+		"title": "Band On The Run",
+		"year": null,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/8151886.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8151886",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:45:40-08:00"
+	},
+	{
+		"releaseId": 4037087,
+		"artist": "The Beatles",
+		"title": "Abbey Road",
+		"year": 2012,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/4037087.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4037087",
+		"featured": true,
+		"dateAdded": "2026-01-14T01:47:44-08:00"
+	},
+	{
+		"releaseId": 6422042,
+		"artist": "The Beatles",
+		"title": "Let It Be... Naked",
+		"year": 2003,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/6422042.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6422042",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:12:00-07:00"
+	},
+	{
+		"releaseId": 7473783,
+		"artist": "The Beatles",
+		"title": "Love",
+		"year": 2006,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Rock & Roll",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/7473783.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7473783",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:01:22-07:00"
+	},
+	{
+		"releaseId": 9499573,
+		"artist": "The Beatles",
+		"title": "A Hard Day's Night",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Soundtrack",
+			"Rock & Roll",
+			"Pop Rock",
+			"Beat"
+		],
+		"cover": "/img/discogs/9499573.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9499573",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:51:10-07:00"
+	},
+	{
+		"releaseId": 9772878,
+		"artist": "The Beatles",
+		"title": "Help!",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Beat",
+			"Soundtrack",
+			"Pop Rock",
+			"Vocal",
+			"Ballad"
+		],
+		"cover": "/img/discogs/9772878.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9772878",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:52:16-07:00"
+	},
+	{
+		"releaseId": 9496898,
+		"artist": "The Beatles",
+		"title": "Please Please Me",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/9496898.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9496898",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:50:35-07:00"
+	},
+	{
+		"releaseId": 9215100,
+		"artist": "The Beatles",
+		"title": "Revolver",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Experimental"
+		],
+		"cover": "/img/discogs/9215100.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9215100",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:22:47-07:00"
+	},
+	{
+		"releaseId": 11791045,
+		"artist": "The Beatles",
+		"title": "Rubber Soul",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Beat",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/11791045.jpg",
+		"discogsUrl": "https://www.discogs.com/release/11791045",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:24:59-07:00"
+	},
+	{
+		"releaseId": 13945541,
+		"artist": "The Beatles",
+		"title": "Sgt. Pepper's Lonely Hearts Club Band",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Psychedelic Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/13945541.jpg",
+		"discogsUrl": "https://www.discogs.com/release/13945541",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:08:42-07:00"
+	},
+	{
+		"releaseId": 10717121,
+		"artist": "The Beatles",
+		"title": "Magical Mystery Tour",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Soundtrack",
+			"Pop Rock",
+			"Psychedelic Rock"
+		],
+		"cover": "/img/discogs/10717121.jpg",
+		"discogsUrl": "https://www.discogs.com/release/10717121",
+		"featured": false,
+		"dateAdded": "2026-07-19T14:00:58-07:00"
+	},
+	{
+		"releaseId": 13945530,
+		"artist": "The Beatles",
+		"title": "Yellow Submarine",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Score",
+			"Pop Rock",
+			"Soundtrack"
+		],
+		"cover": "/img/discogs/13945530.jpg",
+		"discogsUrl": "https://www.discogs.com/release/13945530",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:58:40-07:00"
+	},
+	{
+		"releaseId": 16169108,
+		"artist": "The Beatles",
+		"title": "Let It Be",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Rock & Roll"
+		],
+		"cover": "/img/discogs/16169108.jpg",
+		"discogsUrl": "https://www.discogs.com/release/16169108",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:10:29-07:00"
+	},
+	{
+		"releaseId": 1186206,
+		"artist": "3JS",
+		"title": "Watermensen",
+		"year": 2007,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/1186206.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1186206",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:46:24-07:00"
+	},
+	{
+		"releaseId": 1617212,
+		"artist": "3JS",
+		"title": "Kamers Van M'n Hart",
+		"year": 2008,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/1617212.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1617212",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:46:55-07:00"
+	},
+	{
+		"releaseId": 6786297,
+		"artist": "3JS",
+		"title": "Dromers en Dwazen",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/6786297.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6786297",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:47:22-07:00"
+	},
+	{
+		"releaseId": 11643794,
+		"artist": "3JS",
+		"title": "4 Elementen",
+		"year": 2012,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop",
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/11643794.jpg",
+		"discogsUrl": "https://www.discogs.com/release/11643794",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:47:40-07:00"
+	},
+	{
+		"releaseId": 7655964,
+		"artist": "Dream Theater",
+		"title": "Images And Words",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Progressive Metal",
+			"Prog Rock"
+		],
+		"cover": "/img/discogs/7655964.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7655964",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:30:24-07:00"
+	},
+	{
+		"releaseId": 11913907,
+		"artist": "Mnozil Brass",
+		"title": "Wenn Der Kaiser Grooved",
+		"year": 1998,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Brass & Military",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Brass Band"
+		],
+		"cover": "/img/discogs/11913907.jpg",
+		"discogsUrl": "https://www.discogs.com/release/11913907",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:39:44-07:00"
+	},
+	{
+		"releaseId": 11879157,
+		"artist": "Seasick Steve",
+		"title": "Man From Another Time",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Blues",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Hill Country Blues",
+			"Garage Rock",
+			"Blues Rock"
+		],
+		"cover": "/img/discogs/11879157.jpg",
+		"discogsUrl": "https://www.discogs.com/release/11879157",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:11:51-07:00"
+	},
+	{
+		"releaseId": 13399497,
+		"artist": "Dream Theater",
+		"title": "Octavarium",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/13399497.jpg",
+		"discogsUrl": "https://www.discogs.com/release/13399497",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:01:28-07:00"
+	},
+	{
+		"releaseId": 3266254,
+		"artist": "The Blues Brothers",
+		"title": "The Definitive Blues Brothers Collection",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Funk / Soul",
+			"Blues"
+		],
+		"styles": [
+			"Chicago Blues",
+			"Rhythm & Blues",
+			"Soul"
+		],
+		"cover": "/img/discogs/3266254.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3266254",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:47:14-07:00"
+	},
+	{
+		"releaseId": 8372647,
+		"artist": "Dream Theater",
+		"title": "Greatest Hit (...And 21 Other Pretty Cool Songs)",
+		"year": 2008,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/8372647.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8372647",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:28:43-07:00"
+	},
+	{
+		"releaseId": 14250878,
+		"artist": "Crosby, Stills & Nash",
+		"title": "Greatest Hits",
+		"year": 2005,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Folk Rock",
+			"Country Rock"
+		],
+		"cover": "/img/discogs/14250878.jpg",
+		"discogsUrl": "https://www.discogs.com/release/14250878",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:49:04-07:00"
+	},
+	{
+		"releaseId": 11758143,
+		"artist": "Ruben Hein",
+		"title": "Groundwork Rising",
+		"year": 2018,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Jazz"
+		],
+		"styles": [],
+		"cover": "/img/discogs/11758143.jpg",
+		"discogsUrl": "https://www.discogs.com/release/11758143",
+		"featured": false,
+		"dateAdded": "2026-01-13T07:10:45-08:00"
+	},
+	{
+		"releaseId": 5278992,
+		"artist": "Ruben Hein",
+		"title": "Loose Fit",
+		"year": 2010,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Jazz"
+		],
+		"styles": [],
+		"cover": "/img/discogs/5278992.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5278992",
+		"featured": false,
+		"dateAdded": "2026-01-13T07:08:59-08:00"
+	},
+	{
+		"releaseId": 2983088,
+		"artist": "Ruben Hein",
+		"title": "Loose Fit",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz"
+		],
+		"styles": [],
+		"cover": "/img/discogs/2983088.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2983088",
+		"featured": true,
+		"dateAdded": "2026-07-23T08:13:26-07:00"
+	},
+	{
+		"releaseId": 1265752,
+		"artist": "Höllenboer",
+		"title": "Het Busje Komt Zo",
+		"year": 1995,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Non-Music"
+		],
+		"styles": [
+			"Abstract",
+			"Spoken Word"
+		],
+		"cover": "/img/discogs/1265752.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1265752",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:05:48-07:00"
+	},
+	{
+		"releaseId": 6320949,
+		"artist": "Bill Withers",
+		"title": "Lean On Me (The Collection)",
+		"year": 2010,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Funk / Soul"
+		],
+		"styles": [],
+		"cover": "/img/discogs/6320949.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6320949",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:42:49-07:00"
+	},
+	{
+		"releaseId": 9020989,
+		"artist": "Rondò Veneziano",
+		"title": "The Very Best Of Rondo Veneziano",
+		"year": 2016,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Classical"
+		],
+		"styles": [
+			"Modern Classical"
+		],
+		"cover": "/img/discogs/9020989.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9020989",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:34:58-07:00"
+	},
+	{
+		"releaseId": 19368562,
+		"artist": "Glen Hansard, Marketa Irglova",
+		"title": "Once (Music From The Motion Picture)",
+		"year": 2007,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Folk Rock",
+			"Acoustic",
+			"Ballad",
+			"Soundtrack"
+		],
+		"cover": "/img/discogs/19368562.jpg",
+		"discogsUrl": "https://www.discogs.com/release/19368562",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:47:07-07:00"
+	},
+	{
+		"releaseId": 37072080,
+		"artist": "Little River Band",
+		"title": "Greatest Hits",
+		"year": 2000,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Pop",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Classic Rock",
+			"Country Rock",
+			"Folk Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/37072080.jpg",
+		"discogsUrl": "https://www.discogs.com/release/37072080",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:55:12-07:00"
+	},
+	{
+		"releaseId": 8095403,
+		"artist": "The Beach Boys",
+		"title": "Pet Sounds",
+		"year": 2000,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Psychedelic Rock",
+			"Surf"
+		],
+		"cover": "/img/discogs/8095403.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8095403",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:33:26-07:00"
+	},
+	{
+		"releaseId": 8492038,
+		"artist": "The Beach Boys",
+		"title": "The Very Best Of The Beach Boys",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/8492038.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8492038",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:31:11-07:00"
+	},
+	{
+		"releaseId": 832609,
+		"artist": "Chicago (2)",
+		"title": "Chicago Transit Authority",
+		"year": null,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Jazz",
+			"Rock",
+			"Funk / Soul"
+		],
+		"styles": [
+			"Jazz-Rock",
+			"Pop Rock",
+			"Funk"
+		],
+		"cover": "/img/discogs/832609.jpg",
+		"discogsUrl": "https://www.discogs.com/release/832609",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:49:57-08:00"
+	},
+	{
+		"releaseId": 7700461,
+		"artist": "Steeleye Span",
+		"title": "All Around My Hat",
+		"year": 1975,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Folk Rock"
+		],
+		"cover": "/img/discogs/7700461.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7700461",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:31:55-08:00"
+	},
+	{
+		"releaseId": 13503327,
+		"artist": "The Proclaimers",
+		"title": "The Best Of...",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Folk Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/13503327.jpg",
+		"discogsUrl": "https://www.discogs.com/release/13503327",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:20:02-07:00"
+	},
+	{
+		"releaseId": 3282299,
+		"artist": "Various",
+		"title": "Ruud's Hakkúh Hits",
+		"year": 2011,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Electronic"
+		],
+		"styles": [
+			"Hardcore",
+			"Gabber",
+			"Happy Hardcore"
+		],
+		"cover": "/img/discogs/3282299.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3282299",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:48:33-07:00"
+	},
+	{
+		"releaseId": 2087933,
+		"artist": "Herman Finkers",
+		"title": "Drie Liedjes Uit Van Jonge Leu En Oale Groond",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Folk, World, & Country",
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/2087933.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2087933",
+		"featured": false,
+		"dateAdded": "2026-07-21T11:23:02-07:00"
+	},
+	{
+		"releaseId": 4957636,
+		"artist": "Earth, Wind & Fire",
+		"title": "Let's Groove – The Best Of Earth, Wind & Fire",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Funk / Soul"
+		],
+		"styles": [
+			"Soul",
+			"Funk",
+			"Disco"
+		],
+		"cover": "/img/discogs/4957636.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4957636",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:36:17-07:00"
+	},
+	{
+		"releaseId": 1163254,
+		"artist": "Toto",
+		"title": "The Essential Toto",
+		"year": 2004,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Soft Rock",
+			"AOR",
+			"Arena Rock"
+		],
+		"cover": "/img/discogs/1163254.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1163254",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:11:20-07:00"
+	},
+	{
+		"releaseId": 2297666,
+		"artist": "Billy Joel",
+		"title": "Piano Man - The Very Best Of Billy Joel",
+		"year": 2006,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Folk Rock",
+			"Pop Rock",
+			"Art Rock",
+			"Acoustic",
+			"Ballad",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/2297666.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2297666",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:11:36-07:00"
+	},
+	{
+		"releaseId": 4587210,
+		"artist": "Daft Punk",
+		"title": "Random Access Memories",
+		"year": 2013,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Funk / Soul",
+			"Pop"
+		],
+		"styles": [
+			"Disco",
+			"Funk",
+			"Electro",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/4587210.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4587210",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:22:24-07:00"
+	},
+	{
+		"releaseId": 16715928,
+		"artist": "The Clash",
+		"title": "London Calling",
+		"year": 1999,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Punk"
+		],
+		"cover": "/img/discogs/16715928.jpg",
+		"discogsUrl": "https://www.discogs.com/release/16715928",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:46:36-07:00"
+	},
+	{
+		"releaseId": 1470884,
+		"artist": "Bruce Springsteen",
+		"title": "Greatest Hits",
+		"year": 1995,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/1470884.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1470884",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:32:13-07:00"
+	},
+	{
+		"releaseId": 17812651,
+		"artist": "Boogie Monster (2)",
+		"title": "Overnight",
+		"year": 2021,
+		"format": "Vinyl",
+		"type": "EP",
+		"genres": [
+			"Rock"
+		],
+		"styles": [],
+		"cover": "/img/discogs/17812651.jpg",
+		"discogsUrl": "https://www.discogs.com/release/17812651",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:02:05-08:00"
+	},
+	{
+		"releaseId": 22045993,
+		"artist": "Tom Jones",
+		"title": "The Best Of... Tom Jones",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Pop"
+		],
+		"styles": [
+			"Vocal"
+		],
+		"cover": "/img/discogs/22045993.jpg",
+		"discogsUrl": "https://www.discogs.com/release/22045993",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:10:16-07:00"
+	},
+	{
+		"releaseId": 970438,
+		"artist": "Gerry Rafferty",
+		"title": "Baker Street",
+		"year": 1999,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/970438.jpg",
+		"discogsUrl": "https://www.discogs.com/release/970438",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:19:40-07:00"
+	},
+	{
+		"releaseId": 18888616,
+		"artist": "Höllenboer",
+		"title": "Mu'j Goed Kiek'n Wa'k Zeg",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/18888616.jpg",
+		"discogsUrl": "https://www.discogs.com/release/18888616",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:05:57-07:00"
+	},
+	{
+		"releaseId": 1988350,
+		"artist": "Queen",
+		"title": "Rock Montreal & Live Aid",
+		"year": 2007,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Arena Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/1988350.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1988350",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:10:04-08:00"
+	},
+	{
+		"releaseId": 1651654,
+		"artist": "Dream Theater",
+		"title": "Falling Into Infinity",
+		"year": 1997,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Progressive Metal",
+			"Prog Rock"
+		],
+		"cover": "/img/discogs/1651654.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1651654",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:05:34-07:00"
+	},
+	{
+		"releaseId": 3764208,
+		"artist": "Dream Theater",
+		"title": "Awake",
+		"year": 1994,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/3764208.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3764208",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:08:36-07:00"
+	},
+	{
+		"releaseId": 23589635,
+		"artist": "Dream Theater",
+		"title": "A Change Of Seasons",
+		"year": 1995,
+		"format": "CD",
+		"type": "EP",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Hard Rock",
+			"Prog Rock",
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/23589635.jpg",
+		"discogsUrl": "https://www.discogs.com/release/23589635",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:07:12-07:00"
+	},
+	{
+		"releaseId": 7781939,
+		"artist": "Muse",
+		"title": "Absolution",
+		"year": 2003,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Alternative Rock"
+		],
+		"cover": "/img/discogs/7781939.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7781939",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:57:28-07:00"
+	},
+	{
+		"releaseId": 14127446,
+		"artist": "Muse",
+		"title": "Origin Of Symmetry",
+		"year": 2003,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Alternative Rock"
+		],
+		"cover": "/img/discogs/14127446.jpg",
+		"discogsUrl": "https://www.discogs.com/release/14127446",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:59:56-07:00"
+	},
+	{
+		"releaseId": 3104604,
+		"artist": "Morcheeba",
+		"title": "The Antidote",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Pop"
+		],
+		"styles": [
+			"Trip Hop",
+			"Indie Pop"
+		],
+		"cover": "/img/discogs/3104604.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3104604",
+		"featured": true,
+		"dateAdded": "2026-07-19T12:13:48-07:00"
+	},
+	{
+		"releaseId": 4959650,
+		"artist": "Dream Theater",
+		"title": "Metropolis Pt. 2: Scenes From A Memory",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/4959650.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4959650",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:04:27-07:00"
+	},
+	{
+		"releaseId": 2519936,
+		"artist": "Dream Theater",
+		"title": "Six Degrees Of Inner Turbulence",
+		"year": 2002,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Progressive Metal",
+			"Symphonic Metal"
+		],
+		"cover": "/img/discogs/2519936.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2519936",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:34:54-07:00"
+	},
+	{
+		"releaseId": 25835092,
+		"artist": "Dream Theater",
+		"title": "Train Of Thought",
+		"year": 2003,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/25835092.jpg",
+		"discogsUrl": "https://www.discogs.com/release/25835092",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:03:00-07:00"
+	},
+	{
+		"releaseId": 3259974,
+		"artist": "The Doors",
+		"title": "The Very Best Of The Doors",
+		"year": 2007,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Psychedelic Rock",
+			"Blues Rock"
+		],
+		"cover": "/img/discogs/3259974.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3259974",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:37:57-07:00"
+	},
+	{
+		"releaseId": 14654283,
+		"artist": "The Doors",
+		"title": "Morrison Hotel",
+		"year": 2007,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Blues Rock",
+			"Psychedelic Rock"
+		],
+		"cover": "/img/discogs/14654283.jpg",
+		"discogsUrl": "https://www.discogs.com/release/14654283",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:26:07-07:00"
+	},
+	{
+		"releaseId": 369899,
+		"artist": "Queen, David Bowie",
+		"title": "Under Pressure",
+		"year": 1981,
+		"format": "Vinyl",
+		"type": "Single",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/369899.jpg",
+		"discogsUrl": "https://www.discogs.com/release/369899",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:17:03-08:00"
+	},
+	{
+		"releaseId": 3765458,
+		"artist": "Queen",
+		"title": "Crazy Little Thing Called Love",
+		"year": 1979,
+		"format": "Vinyl",
+		"type": "Single",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/3765458.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3765458",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:19:34-08:00"
+	},
+	{
+		"releaseId": 627244,
+		"artist": "Queen",
+		"title": "Save Me",
+		"year": 1980,
+		"format": "Vinyl",
+		"type": "Single",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Arena Rock"
+		],
+		"cover": "/img/discogs/627244.jpg",
+		"discogsUrl": "https://www.discogs.com/release/627244",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:16:12-08:00"
+	},
+	{
+		"releaseId": 530026,
+		"artist": "Queen",
+		"title": "Flash",
+		"year": 1980,
+		"format": "Vinyl",
+		"type": "Single",
+		"genres": [
+			"Rock",
+			"Pop",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Soundtrack",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/530026.jpg",
+		"discogsUrl": "https://www.discogs.com/release/530026",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:19:16-08:00"
+	},
+	{
+		"releaseId": 7912732,
+		"artist": "Queen",
+		"title": "A Kind Of Magic ",
+		"year": 1986,
+		"format": "Vinyl",
+		"type": "Single",
+		"genres": [
+			"Rock",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Pop Rock",
+			"Theme"
+		],
+		"cover": "/img/discogs/7912732.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7912732",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:18:38-08:00"
+	},
+	{
+		"releaseId": 341892,
+		"artist": "Queen",
+		"title": "Radio Ga Ga",
+		"year": 1984,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock",
+			"Synth-pop",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/341892.jpg",
+		"discogsUrl": "https://www.discogs.com/release/341892",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:53:03-08:00"
+	},
+	{
+		"releaseId": 1741307,
+		"artist": "Iron Maiden",
+		"title": "Somewhere Back In Time (The Best Of: 1980-1989)",
+		"year": 2008,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/1741307.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1741307",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:14:38-07:00"
+	},
+	{
+		"releaseId": 6439497,
+		"artist": "Ruben Hein",
+		"title": "Hopscotch",
+		"year": 2013,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Funk / Soul",
+			"Pop"
+		],
+		"styles": [
+			"Afrobeat"
+		],
+		"cover": "/img/discogs/6439497.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6439497",
+		"featured": false,
+		"dateAdded": "2026-01-13T07:10:28-08:00"
+	},
+	{
+		"releaseId": 2591455,
+		"artist": "Ruben Hein",
+		"title": "Elephants",
+		"year": 2010,
+		"format": "Vinyl",
+		"type": "Single",
+		"genres": [
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/2591455.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2591455",
+		"featured": true,
+		"dateAdded": "2026-01-13T07:09:54-08:00"
+	},
+	{
+		"releaseId": 1810731,
+		"artist": "Queen",
+		"title": "Don't Stop Me Now",
+		"year": 1979,
+		"format": "Vinyl",
+		"type": "Single",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/1810731.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1810731",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:15:43-08:00"
+	},
+	{
+		"releaseId": 7700458,
+		"artist": "Iron Maiden",
+		"title": "Brave New World",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/7700458.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7700458",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:03:55-07:00"
+	},
+	{
+		"releaseId": 2608459,
+		"artist": "Queen",
+		"title": "A Day At The Races",
+		"year": 1986,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock",
+			"Hard Rock",
+			"Art Rock"
+		],
+		"cover": "/img/discogs/2608459.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2608459",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:42:22-07:00"
+	},
+	{
+		"releaseId": 14741442,
+		"artist": "Queen",
+		"title": "A Kind Of Magic",
+		"year": 1986,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/14741442.jpg",
+		"discogsUrl": "https://www.discogs.com/release/14741442",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:25:56-07:00"
+	},
+	{
+		"releaseId": 7415797,
+		"artist": "Queen",
+		"title": "Live Magic",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/7415797.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7415797",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:26:32-07:00"
+	},
+	{
+		"releaseId": 3064699,
+		"artist": "Various",
+		"title": "Radio 2 Top 2000",
+		"year": 2003,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Funk / Soul",
+			"Blues",
+			"Pop",
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/3064699.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3064699",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:56:32-07:00"
+	},
+	{
+		"releaseId": 485781,
+		"artist": "Steeleye Span",
+		"title": "All Around My Hat",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Folk Rock"
+		],
+		"cover": "/img/discogs/485781.jpg",
+		"discogsUrl": "https://www.discogs.com/release/485781",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:29:53-07:00"
+	},
+	{
+		"releaseId": 1159446,
+		"artist": "The Animals",
+		"title": "The Most Of The Animals",
+		"year": 2002,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Blues Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/1159446.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1159446",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:07:12-07:00"
+	},
+	{
+		"releaseId": 4604320,
+		"artist": "Ruben Hein, Ernst Glerum, Joost Patocka",
+		"title": "Revisited",
+		"year": 2012,
+		"format": "CD",
+		"type": "Mini-Album",
+		"genres": [
+			"Jazz"
+		],
+		"styles": [],
+		"cover": "/img/discogs/4604320.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4604320",
+		"featured": false,
+		"dateAdded": "2026-01-13T07:10:22-08:00"
+	},
+	{
+		"releaseId": 4604332,
+		"artist": "Ruben Hein, Metropole Orchestra, Jules Buckley",
+		"title": "Live (At The Royal Theatre Carré)",
+		"year": 2011,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz"
+		],
+		"styles": [],
+		"cover": "/img/discogs/4604332.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4604332",
+		"featured": false,
+		"dateAdded": "2026-01-13T07:10:11-08:00"
+	},
+	{
+		"releaseId": 9895618,
+		"artist": "Queen",
+		"title": "Live Killers",
+		"year": 1979,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Hard Rock",
+			"Pop Rock",
+			"Arena Rock"
+		],
+		"cover": "/img/discogs/9895618.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9895618",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:44:44-08:00"
+	},
+	{
+		"releaseId": 592480,
+		"artist": "Queen",
+		"title": "One Vision",
+		"year": 1985,
+		"format": "Vinyl",
+		"type": "Single",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/592480.jpg",
+		"discogsUrl": "https://www.discogs.com/release/592480",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:17:24-08:00"
+	},
+	{
+		"releaseId": 5569161,
+		"artist": "Queen",
+		"title": "Pain Is So Close To Pleasure",
+		"year": 1986,
+		"format": "Vinyl",
+		"type": "Single",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/5569161.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5569161",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:17:43-08:00"
+	},
+	{
+		"releaseId": 348660,
+		"artist": "Queen",
+		"title": "I Want To Break Free",
+		"year": 1984,
+		"format": "Vinyl",
+		"type": "Single",
+		"genres": [
+			"Electronic",
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/348660.jpg",
+		"discogsUrl": "https://www.discogs.com/release/348660",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:18:04-08:00"
+	},
+	{
+		"releaseId": 1759711,
+		"artist": "Queen",
+		"title": "Live Magic",
+		"year": 1986,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Arena Rock"
+		],
+		"cover": "/img/discogs/1759711.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1759711",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:49:14-08:00"
+	},
+	{
+		"releaseId": 4001604,
+		"artist": "Joe Satriani",
+		"title": "Surfing With The Alien",
+		"year": 1999,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Instrumental",
+			"Hard Rock",
+			"Blues Rock"
+		],
+		"cover": "/img/discogs/4001604.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4001604",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:25:39-07:00"
+	},
+	{
+		"releaseId": 4974944,
+		"artist": "Steve Vai",
+		"title": "Passion And Warfare",
+		"year": 1997,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Hard Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/4974944.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4974944",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:08:17-07:00"
+	},
+	{
+		"releaseId": 21832780,
+		"artist": "Pearl Jam",
+		"title": "Ten",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Grunge",
+			"Alternative Rock"
+		],
+		"cover": "/img/discogs/21832780.jpg",
+		"discogsUrl": "https://www.discogs.com/release/21832780",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:27:01-07:00"
+	},
+	{
+		"releaseId": 3640474,
+		"artist": "Gloria Estefan",
+		"title": "The Essential Gloria Estefan",
+		"year": 2006,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Electronic",
+			"Latin",
+			"Pop"
+		],
+		"styles": [
+			"Latin"
+		],
+		"cover": "/img/discogs/3640474.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3640474",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:09:54-07:00"
+	},
+	{
+		"releaseId": 11059630,
+		"artist": "Michael Jackson",
+		"title": "The Essential Michael Jackson",
+		"year": 2010,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Electronic",
+			"Rock",
+			"Funk / Soul",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock",
+			"Synth-pop",
+			"Disco"
+		],
+		"cover": "/img/discogs/11059630.jpg",
+		"discogsUrl": "https://www.discogs.com/release/11059630",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:04:36-07:00"
+	},
+	{
+		"releaseId": 7728017,
+		"artist": "Electric Light Orchestra",
+		"title": "All Over The World - The Very Best Of Electric Light Orchestra",
+		"year": 2005,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/7728017.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7728017",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:04:52-07:00"
+	},
+	{
+		"releaseId": 8768314,
+		"artist": "Daniël Lohues",
+		"title": "Aosem",
+		"year": 2016,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Country",
+			"Folk"
+		],
+		"cover": "/img/discogs/8768314.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8768314",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:41:35-08:00"
+	},
+	{
+		"releaseId": 9811143,
+		"artist": "Daniël Lohues",
+		"title": "Moi",
+		"year": 2017,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Blues",
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/9811143.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9811143",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:41:14-08:00"
+	},
+	{
+		"releaseId": 4296287,
+		"artist": "Jacco Gardner",
+		"title": "Cabinet Of Curiosities",
+		"year": 2013,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Psychedelic Rock"
+		],
+		"cover": "/img/discogs/4296287.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4296287",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:00:55-07:00"
+	},
+	{
+		"releaseId": 4310848,
+		"artist": "Jacco Gardner",
+		"title": "Cabinet Of Curiosities",
+		"year": 2013,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Psychedelic Rock"
+		],
+		"cover": "/img/discogs/4310848.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4310848",
+		"featured": true,
+		"dateAdded": "2026-01-14T01:55:51-08:00"
+	},
+	{
+		"releaseId": 875982,
+		"artist": "Creedence Clearwater Revival",
+		"title": "Masters Of Rock",
+		"year": 1975,
+		"format": "Vinyl",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/875982.jpg",
+		"discogsUrl": "https://www.discogs.com/release/875982",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:40:54-08:00"
+	},
+	{
+		"releaseId": 1829415,
+		"artist": "Creedence Clearwater Revival",
+		"title": "Best Of",
+		"year": 2008,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Southern Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/1829415.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1829415",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:40:22-07:00"
+	},
+	{
+		"releaseId": 7015921,
+		"artist": "Mad Caddies",
+		"title": "Duck And Cover",
+		"year": 2014,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Ska",
+			"Punk"
+		],
+		"cover": "/img/discogs/7015921.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7015921",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:08:56-07:00"
+	},
+	{
+		"releaseId": 1145600,
+		"artist": "Mad Caddies",
+		"title": "Rock The Plank",
+		"year": 2001,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Ska",
+			"Punk"
+		],
+		"cover": "/img/discogs/1145600.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1145600",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:09:51-07:00"
+	},
+	{
+		"releaseId": 15545961,
+		"artist": "Snow Patrol",
+		"title": "Up To Now",
+		"year": 2009,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock",
+			"Indie Rock"
+		],
+		"cover": "/img/discogs/15545961.jpg",
+		"discogsUrl": "https://www.discogs.com/release/15545961",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:13:00-07:00"
+	},
+	{
+		"releaseId": 15136242,
+		"artist": "Ilse DeLange",
+		"title": "Next To Me",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Blues",
+			"Pop"
+		],
+		"styles": [
+			"Country Blues",
+			"Country Rock"
+		],
+		"cover": "/img/discogs/15136242.jpg",
+		"discogsUrl": "https://www.discogs.com/release/15136242",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:22:38-07:00"
+	},
+	{
+		"releaseId": 15881093,
+		"artist": "Magnify",
+		"title": "Sing",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz"
+		],
+		"styles": [],
+		"cover": "/img/discogs/15881093.jpg",
+		"discogsUrl": "https://www.discogs.com/release/15881093",
+		"featured": false,
+		"dateAdded": "2026-07-19T14:07:26-07:00"
+	},
+	{
+		"releaseId": 35303569,
+		"artist": "Mnozil Brass",
+		"title": "Smoke Live",
+		"year": 2002,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Brass & Military"
+		],
+		"styles": [
+			"Brass Band"
+		],
+		"cover": "/img/discogs/35303569.jpg",
+		"discogsUrl": "https://www.discogs.com/release/35303569",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:40:23-07:00"
+	},
+	{
+		"releaseId": 9761903,
+		"artist": "Mnozil Brass",
+		"title": "Ragazzi",
+		"year": 2004,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Brass & Military",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Brass Band"
+		],
+		"cover": "/img/discogs/9761903.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9761903",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:39:22-07:00"
+	},
+	{
+		"releaseId": 14305976,
+		"artist": "Mnozil Brass",
+		"title": "What Are You Doing The Rest Of Your Life",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Brass & Military",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Brass Band"
+		],
+		"cover": "/img/discogs/14305976.jpg",
+		"discogsUrl": "https://www.discogs.com/release/14305976",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:41:13-07:00"
+	},
+	{
+		"releaseId": 386088,
+		"artist": "Guns N' Roses",
+		"title": "Greatest Hits",
+		"year": 2004,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Hard Rock"
+		],
+		"cover": "/img/discogs/386088.jpg",
+		"discogsUrl": "https://www.discogs.com/release/386088",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:59:27-07:00"
+	},
+	{
+		"releaseId": 24775040,
+		"artist": "Guns N' Roses",
+		"title": "Use Your Illusion I",
+		"year": 1991,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Hard Rock",
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/24775040.jpg",
+		"discogsUrl": "https://www.discogs.com/release/24775040",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:48:58-07:00"
+	},
+	{
+		"releaseId": 3798570,
+		"artist": "Guns N' Roses",
+		"title": "Use Your Illusion II",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Rock & Roll",
+			"Hard Rock",
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/3798570.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3798570",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:58:06-07:00"
+	},
+	{
+		"releaseId": 1323937,
+		"artist": "Jaya The Cat",
+		"title": "Basement Style",
+		"year": 2001,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Reggae"
+		],
+		"styles": [
+			"Reggae",
+			"Punk"
+		],
+		"cover": "/img/discogs/1323937.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1323937",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:05:11-07:00"
+	},
+	{
+		"releaseId": 2128172,
+		"artist": "Caro Emerald",
+		"title": "Deleted Scenes From The Cutting Room Floor",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Hip Hop",
+			"Jazz",
+			"Pop"
+		],
+		"styles": [
+			"Soul-Jazz",
+			"Big Band",
+			"Bossa Nova",
+			"Swing"
+		],
+		"cover": "/img/discogs/2128172.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2128172",
+		"featured": true,
+		"dateAdded": "2026-07-23T07:05:32-07:00"
+	},
+	{
+		"releaseId": 2978869,
+		"artist": "Caro Emerald, Grandmono Orchestra",
+		"title": "Live In Concert At The Heineken Music Hall",
+		"year": 2011,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Hip Hop",
+			"Jazz",
+			"Pop"
+		],
+		"styles": [
+			"Soul-Jazz",
+			"Big Band",
+			"Bossa Nova",
+			"Swing"
+		],
+		"cover": "/img/discogs/2978869.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2978869",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:06:38-08:00"
+	},
+	{
+		"releaseId": 4535053,
+		"artist": "Caro Emerald",
+		"title": "The Shocking Miss Emerald",
+		"year": 2013,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz",
+			"Latin",
+			"Pop"
+		],
+		"styles": [
+			"Soul-Jazz",
+			"Big Band",
+			"Bossa Nova",
+			"Swing",
+			"Ballad",
+			"Tango"
+		],
+		"cover": "/img/discogs/4535053.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4535053",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:08:00-07:00"
+	},
+	{
+		"releaseId": 17744539,
+		"artist": "Daniël Lohues",
+		"title": "Allennig",
+		"year": 2006,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Acoustic"
+		],
+		"cover": "/img/discogs/17744539.jpg",
+		"discogsUrl": "https://www.discogs.com/release/17744539",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:48:19-07:00"
+	},
+	{
+		"releaseId": 10033110,
+		"artist": "Lohues & The Louisiana Blues Club",
+		"title": "Grip",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Blues Rock"
+		],
+		"cover": "/img/discogs/10033110.jpg",
+		"discogsUrl": "https://www.discogs.com/release/10033110",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:50:48-07:00"
+	},
+	{
+		"releaseId": 1708986,
+		"artist": "Daniël Lohues",
+		"title": "Allennig II",
+		"year": 2008,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Ballad"
+		],
+		"cover": "/img/discogs/1708986.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1708986",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:49:01-07:00"
+	},
+	{
+		"releaseId": 1883422,
+		"artist": "Daniël Lohues",
+		"title": "Allennig III",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Acoustic"
+		],
+		"cover": "/img/discogs/1883422.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1883422",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:49:15-07:00"
+	},
+	{
+		"releaseId": 2274802,
+		"artist": "Daniël Lohues",
+		"title": "Allennig IV",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop",
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/2274802.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2274802",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:49:25-07:00"
+	},
+	{
+		"releaseId": 3820763,
+		"artist": "Daniël Lohues",
+		"title": "Hout Moet",
+		"year": 2011,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Acoustic"
+		],
+		"cover": "/img/discogs/3820763.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3820763",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:49:37-07:00"
+	},
+	{
+		"releaseId": 3872818,
+		"artist": "Daniël Lohues",
+		"title": "Gunder",
+		"year": 2012,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Acoustic"
+		],
+		"cover": "/img/discogs/3872818.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3872818",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:55:25-07:00"
+	},
+	{
+		"releaseId": 4939654,
+		"artist": "Daniël Lohues",
+		"title": "Ericana",
+		"year": 2013,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Country",
+			"Folk"
+		],
+		"cover": "/img/discogs/4939654.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4939654",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:47:18-07:00"
+	},
+	{
+		"releaseId": 6439692,
+		"artist": "Herman van Veen",
+		"title": "(De Zaal Is Er) Carré V",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Non-Music",
+			"Pop"
+		],
+		"styles": [
+			"Comedy",
+			"Chanson"
+		],
+		"cover": "/img/discogs/6439692.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6439692",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:21:36-07:00"
+	},
+	{
+		"releaseId": 6446197,
+		"artist": "Herman van Veen",
+		"title": "Rode Wangen - In Vogelvlucht Voor Kinderen (20 Jaar Kinderliedjes)",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Children's"
+		],
+		"styles": [
+			"Nursery Rhymes"
+		],
+		"cover": "/img/discogs/6446197.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6446197",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:20:57-07:00"
+	},
+	{
+		"releaseId": 2202306,
+		"artist": "Paul McCartney",
+		"title": "Good Evening New York City",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Rock & Roll",
+			"Pop Rock",
+			"Concert Film"
+		],
+		"cover": "/img/discogs/2202306.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2202306",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:46:02-07:00"
+	},
+	{
+		"releaseId": 486263,
+		"artist": "Dropkick Murphys",
+		"title": "The Warrior's Code",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Punk",
+			"Oi"
+		],
+		"cover": "/img/discogs/486263.jpg",
+		"discogsUrl": "https://www.discogs.com/release/486263",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:28:47-07:00"
+	},
+	{
+		"releaseId": 18045652,
+		"artist": "Rowwen Hèze",
+		"title": "Blieve Loepe",
+		"year": null,
+		"format": "CD",
+		"type": "Mini-Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Folk Rock",
+			"Chanson"
+		],
+		"cover": "/img/discogs/18045652.jpg",
+		"discogsUrl": "https://www.discogs.com/release/18045652",
+		"featured": true,
+		"dateAdded": "2026-07-20T12:15:53-07:00"
+	},
+	{
+		"releaseId": 9360765,
+		"artist": "Rowwen Hèze",
+		"title": "Station America",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Folk Rock",
+			"Chanson"
+		],
+		"cover": "/img/discogs/9360765.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9360765",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:25:11-07:00"
+	},
+	{
+		"releaseId": 737842,
+		"artist": "Rowwen Hèze",
+		"title": "Zondag In 't Zuiden",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Folk Rock",
+			"Chanson"
+		],
+		"cover": "/img/discogs/737842.jpg",
+		"discogsUrl": "https://www.discogs.com/release/737842",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:16:58-07:00"
+	},
+	{
+		"releaseId": 737835,
+		"artist": "Rowwen Hèze",
+		"title": "Water, Lucht En Liefde",
+		"year": 1997,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Folk Rock",
+			"Chanson"
+		],
+		"cover": "/img/discogs/737835.jpg",
+		"discogsUrl": "https://www.discogs.com/release/737835",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:17:24-07:00"
+	},
+	{
+		"releaseId": 737839,
+		"artist": "Rowwen Hèze",
+		"title": "Vandaag",
+		"year": 2000,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Folk Rock",
+			"Chanson"
+		],
+		"cover": "/img/discogs/737839.jpg",
+		"discogsUrl": "https://www.discogs.com/release/737839",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:30:14-07:00"
+	},
+	{
+		"releaseId": 5226914,
+		"artist": "Rowwen Hèze",
+		"title": "Geal",
+		"year": 2012,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/5226914.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5226914",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:21:00-07:00"
+	},
+	{
+		"releaseId": 737848,
+		"artist": "Rowwen Hèze",
+		"title": "Dageraad",
+		"year": 2003,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Folk Rock"
+		],
+		"cover": "/img/discogs/737848.jpg",
+		"discogsUrl": "https://www.discogs.com/release/737848",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:28:10-07:00"
+	},
+	{
+		"releaseId": 13815342,
+		"artist": "Rowwen Hèze",
+		"title": "Boem",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Folk Rock",
+			"Chanson"
+		],
+		"cover": "/img/discogs/13815342.jpg",
+		"discogsUrl": "https://www.discogs.com/release/13815342",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:18:54-07:00"
+	},
+	{
+		"releaseId": 737828,
+		"artist": "Rowwen Hèze",
+		"title": "In De Wei (Live)",
+		"year": 1992,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Folk Rock",
+			"Chanson"
+		],
+		"cover": "/img/discogs/737828.jpg",
+		"discogsUrl": "https://www.discogs.com/release/737828",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:24:12-07:00"
+	},
+	{
+		"releaseId": 635263,
+		"artist": "Rowwen Hèze",
+		"title": "'t Beste Van 2 Werelden",
+		"year": 1999,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Folk Rock",
+			"Ballad"
+		],
+		"cover": "/img/discogs/635263.jpg",
+		"discogsUrl": "https://www.discogs.com/release/635263",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:27:45-07:00"
+	},
+	{
+		"releaseId": 3396961,
+		"artist": "Rowwen Hèze",
+		"title": "Manne Van Staal",
+		"year": 2011,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Blues",
+			"Pop",
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/3396961.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3396961",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:26:30-07:00"
+	},
+	{
+		"releaseId": 19622824,
+		"artist": "Mnozil Brass",
+		"title": "Zimt",
+		"year": 2000,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz"
+		],
+		"styles": [],
+		"cover": "/img/discogs/19622824.jpg",
+		"discogsUrl": "https://www.discogs.com/release/19622824",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:40:58-07:00"
+	},
+	{
+		"releaseId": 11895498,
+		"artist": "Mnozil Brass",
+		"title": "Dasselbe In Grün",
+		"year": 2000,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Classical",
+			"Brass & Military",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Brass Band"
+		],
+		"cover": "/img/discogs/11895498.jpg",
+		"discogsUrl": "https://www.discogs.com/release/11895498",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:39:34-07:00"
+	},
+	{
+		"releaseId": 15337880,
+		"artist": "Mnozil Brass",
+		"title": "Almrausch",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Brass & Military",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Brass Band"
+		],
+		"cover": "/img/discogs/15337880.jpg",
+		"discogsUrl": "https://www.discogs.com/release/15337880",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:42:23-07:00"
+	},
+	{
+		"releaseId": 6163905,
+		"artist": "Freddie Mercury",
+		"title": "The Very Best Of Freddie Mercury Solo",
+		"year": 2006,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Electronic",
+			"Rock"
+		],
+		"styles": [
+			"House",
+			"Pop Rock",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/6163905.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6163905",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:14:29-07:00"
+	},
+	{
+		"releaseId": 1285553,
+		"artist": "Dragonforce",
+		"title": "Inhuman Rampage",
+		"year": 2006,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Speed Metal"
+		],
+		"cover": "/img/discogs/1285553.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1285553",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:29:23-07:00"
+	},
+	{
+		"releaseId": 2245186,
+		"artist": "Queen",
+		"title": "Rock You From Rio - Live",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Power Pop",
+			"Arena Rock"
+		],
+		"cover": "/img/discogs/2245186.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2245186",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:38:52-07:00"
+	},
+	{
+		"releaseId": 1265198,
+		"artist": "Ayreon",
+		"title": "Into The Electric Castle (A Space Opera)",
+		"year": 2004,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Art Rock",
+			"Heavy Metal",
+			"Symphonic Rock",
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/1265198.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1265198",
+		"featured": true,
+		"dateAdded": "2026-01-01T04:55:34-08:00"
+	},
+	{
+		"releaseId": 5577367,
+		"artist": "Bigelf",
+		"title": "Into The Maelstrom",
+		"year": 2014,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/5577367.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5577367",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:06:19-07:00"
+	},
+	{
+		"releaseId": 499046,
+		"artist": "Ayreon",
+		"title": "The Human Equation",
+		"year": 2004,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/499046.jpg",
+		"discogsUrl": "https://www.discogs.com/release/499046",
+		"featured": false,
+		"dateAdded": "2026-01-01T05:02:15-08:00"
+	},
+	{
+		"releaseId": 13759911,
+		"artist": "Queens Of The Stone Age",
+		"title": "Songs For The Deaf",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Hard Rock"
+		],
+		"cover": "/img/discogs/13759911.jpg",
+		"discogsUrl": "https://www.discogs.com/release/13759911",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:25:55-07:00"
+	},
+	{
+		"releaseId": 2858303,
+		"artist": "Jonathan Jeremiah",
+		"title": "A Solitary Man",
+		"year": 2011,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/2858303.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2858303",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:12:02-07:00"
+	},
+	{
+		"releaseId": 26503163,
+		"artist": "Amy Winehouse",
+		"title": "Frank",
+		"year": 2004,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz",
+			"Funk / Soul"
+		],
+		"styles": [
+			"RnB/Swing",
+			"Soul"
+		],
+		"cover": "/img/discogs/26503163.jpg",
+		"discogsUrl": "https://www.discogs.com/release/26503163",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:42:10-07:00"
+	},
+	{
+		"releaseId": 31987448,
+		"artist": "Kyteman",
+		"title": "The Hermit Sessions",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Hip Hop",
+			"Jazz",
+			"Funk / Soul"
+		],
+		"styles": [],
+		"cover": "/img/discogs/31987448.jpg",
+		"discogsUrl": "https://www.discogs.com/release/31987448",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:56:11-07:00"
+	},
+	{
+		"releaseId": 15949473,
+		"artist": "Slavko Avsenik Und Seine Original Oberkrainer",
+		"title": "Gold",
+		"year": 1993,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Volksmusik"
+		],
+		"cover": "/img/discogs/15949473.jpg",
+		"discogsUrl": "https://www.discogs.com/release/15949473",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:33:46-07:00"
+	},
+	{
+		"releaseId": 19905160,
+		"artist": "Ernst Mosch Und Seine Original Egerländer Musikanten",
+		"title": "Wenn Unsere Musikanten Spielen",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Volksmusik"
+		],
+		"cover": "/img/discogs/19905160.jpg",
+		"discogsUrl": "https://www.discogs.com/release/19905160",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:18:09-07:00"
+	},
+	{
+		"releaseId": 34071292,
+		"artist": "Ernst Mosch Und Seine Original Egerländer Musikanten",
+		"title": "Mein Schönes Heimatland",
+		"year": 2002,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Brass & Military",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Polka",
+			"Volksmusik",
+			"Brass Band"
+		],
+		"cover": "/img/discogs/34071292.jpg",
+		"discogsUrl": "https://www.discogs.com/release/34071292",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:19:00-07:00"
+	},
+	{
+		"releaseId": 5325618,
+		"artist": "Slavko Avsenik Und Seine Original Oberkrainer",
+		"title": "Polkafest In Oberkrain",
+		"year": 1997,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Polka"
+		],
+		"cover": "/img/discogs/5325618.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5325618",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:34:03-07:00"
+	},
+	{
+		"releaseId": 24462566,
+		"artist": "Die Zillertaler",
+		"title": "Zillertaler Hochzeitsmarsch",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Volksmusik"
+		],
+		"cover": "/img/discogs/24462566.jpg",
+		"discogsUrl": "https://www.discogs.com/release/24462566",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:06:07-07:00"
+	},
+	{
+		"releaseId": 37957287,
+		"artist": "Vlado Kumpan und seine Musikanten",
+		"title": "Ein schöner Traum",
+		"year": 2007,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Brass & Military",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Polka",
+			"Volksmusik"
+		],
+		"cover": "/img/discogs/37957287.jpg",
+		"discogsUrl": "https://www.discogs.com/release/37957287",
+		"featured": false,
+		"dateAdded": "2026-07-24T12:57:33-07:00"
+	},
+	{
+		"releaseId": 3543569,
+		"artist": "The Kyteman Orchestra",
+		"title": "The Kyteman Orchestra",
+		"year": 2012,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Hip Hop",
+			"Jazz",
+			"Pop",
+			"Classical"
+		],
+		"styles": [
+			"Instrumental",
+			"Neo-Classical"
+		],
+		"cover": "/img/discogs/3543569.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3543569",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:57:41-07:00"
+	},
+	{
+		"releaseId": 21721546,
+		"artist": "Porcupine Tree",
+		"title": "In Absentia",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Alternative Rock",
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/21721546.jpg",
+		"discogsUrl": "https://www.discogs.com/release/21721546",
+		"featured": true,
+		"dateAdded": "2026-07-19T08:27:25-07:00"
+	},
+	{
+		"releaseId": 450444,
+		"artist": "Porcupine Tree",
+		"title": "Deadwing",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Symphonic Rock"
+		],
+		"cover": "/img/discogs/450444.jpg",
+		"discogsUrl": "https://www.discogs.com/release/450444",
+		"featured": true,
+		"dateAdded": "2026-07-19T08:40:47-07:00"
+	},
+	{
+		"releaseId": 987276,
+		"artist": "Global.Kryner",
+		"title": "Global.Kryner",
+		"year": 2004,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Folk Rock",
+			"Novelty",
+			"Schlager"
+		],
+		"cover": "/img/discogs/987276.jpg",
+		"discogsUrl": "https://www.discogs.com/release/987276",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:11:52-07:00"
+	},
+	{
+		"releaseId": 1399659,
+		"artist": "Global.Kryner",
+		"title": "Krynology",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz",
+			"Rock",
+			"Pop",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Folk Rock",
+			"Novelty",
+			"Neofolk"
+		],
+		"cover": "/img/discogs/1399659.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1399659",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:12:03-07:00"
+	},
+	{
+		"releaseId": 5539896,
+		"artist": "Global.Kryner",
+		"title": "Weg",
+		"year": 2007,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/5539896.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5539896",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:11:42-07:00"
+	},
+	{
+		"releaseId": 8896142,
+		"artist": "Gerry Rafferty",
+		"title": "Sleepwalking",
+		"year": 1982,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/8896142.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8896142",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:34:04-08:00"
+	},
+	{
+		"releaseId": 9285278,
+		"artist": "Ghost (32)",
+		"title": "Meliora",
+		"year": 2016,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Hard Rock",
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/9285278.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9285278",
+		"featured": true,
+		"dateAdded": "2026-01-14T01:34:21-08:00"
+	},
+	{
+		"releaseId": 4339348,
+		"artist": "Mike Portnoy",
+		"title": "Prime Cuts (From Mike Portnoy's Magna Carta Sessions)",
+		"year": 2005,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/4339348.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4339348",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:37:24-07:00"
+	},
+	{
+		"releaseId": 6867852,
+		"artist": "Celtic Woman",
+		"title": "A New Journey",
+		"year": 2007,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Classical",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Celtic",
+			"Classical"
+		],
+		"cover": "/img/discogs/6867852.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6867852",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:56:24-07:00"
+	},
+	{
+		"releaseId": 4473362,
+		"artist": "Guilt Machine",
+		"title": "On This Perfect Day",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Symphonic Rock"
+		],
+		"cover": "/img/discogs/4473362.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4473362",
+		"featured": true,
+		"dateAdded": "2026-01-01T04:53:55-08:00"
+	},
+	{
+		"releaseId": 7766609,
+		"artist": "George Martin",
+		"title": "In My Life",
+		"year": 1998,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/7766609.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7766609",
+		"featured": true,
+		"dateAdded": "2026-07-19T12:07:28-07:00"
+	},
+	{
+		"releaseId": 1543451,
+		"artist": "Boney M.",
+		"title": "Rivers Of Babylon: Presenting... Boney M.",
+		"year": 2008,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Electronic"
+		],
+		"styles": [
+			"Disco"
+		],
+		"cover": "/img/discogs/1543451.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1543451",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:31:12-07:00"
+	},
+	{
+		"releaseId": 5616834,
+		"artist": "Creedence Clearwater Revival, John Fogerty",
+		"title": "Travellin' Band",
+		"year": 2007,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock",
+			"Country Rock"
+		],
+		"cover": "/img/discogs/5616834.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5616834",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:04:24-08:00"
+	},
+	{
+		"releaseId": 5437178,
+		"artist": "Dream Theater",
+		"title": "When Dream And Day Unite",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Symphonic Metal",
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/5437178.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5437178",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:09:58-07:00"
+	},
+	{
+		"releaseId": 6252187,
+		"artist": "Ekseption",
+		"title": "The Universal Masters Collection",
+		"year": 2003,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Electronic",
+			"Rock",
+			"Classical",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Synth-pop",
+			"Art Rock"
+		],
+		"cover": "/img/discogs/6252187.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6252187",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:04:19-07:00"
+	},
+	{
+		"releaseId": 5872549,
+		"artist": "Mark Knopfler",
+		"title": "Sailing To Philadelphia",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Folk Rock",
+			"Country Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/5872549.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5872549",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:08:13-07:00"
+	},
+	{
+		"releaseId": 6984115,
+		"artist": "Boudewijn De Groot",
+		"title": "Het Beste Van Boudewijn De Groot",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Folk Rock",
+			"Pop Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/6984115.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6984115",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:18:16-07:00"
+	},
+	{
+		"releaseId": 1564529,
+		"artist": "Queen",
+		"title": "Pre Ordained",
+		"year": 1996,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/1564529.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1564529",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:28:28-07:00"
+	},
+	{
+		"releaseId": 3034308,
+		"artist": "Wings (2)",
+		"title": "Band On The Run",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/3034308.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3034308",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:05:23-07:00"
+	},
+	{
+		"releaseId": 3649539,
+		"artist": "Otis Redding",
+		"title": "Soul Legend (The Very Best Of Otis Redding)",
+		"year": 2011,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Funk / Soul"
+		],
+		"styles": [
+			"Soul"
+		],
+		"cover": "/img/discogs/3649539.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3649539",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:20:38-07:00"
+	},
+	{
+		"releaseId": 26059753,
+		"artist": "The Gentle Storm",
+		"title": "The Diary",
+		"year": 2023,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Folk",
+			"Prog Rock"
+		],
+		"cover": "/img/discogs/26059753.jpg",
+		"discogsUrl": "https://www.discogs.com/release/26059753",
+		"featured": true,
+		"dateAdded": "2026-01-01T05:21:04-08:00"
+	},
+	{
+		"releaseId": 11761027,
+		"artist": "Ayreon",
+		"title": "Best Of Ayreon Live",
+		"year": 2018,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/11761027.jpg",
+		"discogsUrl": "https://www.discogs.com/release/11761027",
+		"featured": false,
+		"dateAdded": "2026-07-24T10:03:11-07:00"
+	},
+	{
+		"releaseId": 37924590,
+		"artist": "Ernst Mosch Und Seine Original Egerländer Musikanten",
+		"title": "50 große erfolge",
+		"year": 2012,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Volksmusik"
+		],
+		"cover": "/img/discogs/37924590.jpg",
+		"discogsUrl": "https://www.discogs.com/release/37924590",
+		"featured": false,
+		"dateAdded": "2026-07-19T14:56:19-07:00"
+	},
+	{
+		"releaseId": 4748856,
+		"artist": "DJ Tiësto",
+		"title": "Elements Of Life",
+		"year": 2008,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic"
+		],
+		"styles": [
+			"Trance",
+			"Progressive Trance"
+		],
+		"cover": "/img/discogs/4748856.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4748856",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:07:06-07:00"
+	},
+	{
+		"releaseId": 6627074,
+		"artist": "Rowwen Hèze",
+		"title": "In De Tent - Live In America",
+		"year": 2004,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/6627074.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6627074",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:04:46-08:00"
+	},
+	{
+		"releaseId": 5256670,
+		"artist": "Rowwen Hèze",
+		"title": "Andere Wind",
+		"year": 2004,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Folk"
+		],
+		"cover": "/img/discogs/5256670.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5256670",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:31:18-07:00"
+	},
+	{
+		"releaseId": 10567934,
+		"artist": "Rowwen Hèze",
+		"title": "D.A.D.P.G.S. - In Het Theater",
+		"year": 2003,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Volksmusik"
+		],
+		"cover": "/img/discogs/10567934.jpg",
+		"discogsUrl": "https://www.discogs.com/release/10567934",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:04:35-08:00"
+	},
+	{
+		"releaseId": 20850487,
+		"artist": "Dragonforce",
+		"title": "Sonic Firestorm",
+		"year": 2004,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Power Metal"
+		],
+		"cover": "/img/discogs/20850487.jpg",
+		"discogsUrl": "https://www.discogs.com/release/20850487",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:37:28-07:00"
+	},
+	{
+		"releaseId": 8511219,
+		"artist": "Ian Siegal",
+		"title": "Meat & Potatoes",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Blues"
+		],
+		"styles": [
+			"Blues Rock",
+			"Memphis Blues"
+		],
+		"cover": "/img/discogs/8511219.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8511219",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:12:11-07:00"
+	},
+	{
+		"releaseId": 20861815,
+		"artist": "Gerry Mulligan, Chet Baker",
+		"title": "The Best Of The Gerry Mulligan Quartet With Chet Baker",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Jazz"
+		],
+		"styles": [
+			"Cool Jazz"
+		],
+		"cover": "/img/discogs/20861815.jpg",
+		"discogsUrl": "https://www.discogs.com/release/20861815",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:40:35-07:00"
+	},
+	{
+		"releaseId": 764958,
+		"artist": "Queen",
+		"title": "A Night At The Opera",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/764958.jpg",
+		"discogsUrl": "https://www.discogs.com/release/764958",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:52:30-07:00"
+	},
+	{
+		"releaseId": 10988768,
+		"artist": "George Michael, Queen, Lisa Stansfield",
+		"title": "Five Live",
+		"year": 1993,
+		"format": "CD",
+		"type": "EP",
+		"genres": [
+			"Electronic",
+			"Rock"
+		],
+		"styles": [
+			"Soft Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/10988768.jpg",
+		"discogsUrl": "https://www.discogs.com/release/10988768",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:46:38-07:00"
+	},
+	{
+		"releaseId": 4749204,
+		"artist": "Queen",
+		"title": "Flash Gordon (Original Soundtrack Music)",
+		"year": 1994,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/4749204.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4749204",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:21:41-07:00"
+	},
+	{
+		"releaseId": 1998845,
+		"artist": "Queen, Various",
+		"title": "At The Freddie Mercury Tribute Concert - Special 10th Anniversary Edition",
+		"year": 2002,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Arena Rock"
+		],
+		"cover": "/img/discogs/1998845.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1998845",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:05:47-08:00"
+	},
+	{
+		"releaseId": 8017758,
+		"artist": "David Bowie",
+		"title": "Best Of Bowie",
+		"year": 2014,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"New Wave",
+			"Experimental",
+			"Glam"
+		],
+		"cover": "/img/discogs/8017758.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8017758",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:34:34-07:00"
+	},
+	{
+		"releaseId": 19910395,
+		"artist": "Gorillaz",
+		"title": "Gorillaz",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Hip Hop",
+			"Rock",
+			"Latin",
+			"Funk / Soul",
+			"Pop"
+		],
+		"styles": [
+			"Leftfield",
+			"Trip Hop",
+			"Lo-Fi",
+			"Experimental",
+			"Alternative Rock",
+			"Dub",
+			"Vocal"
+		],
+		"cover": "/img/discogs/19910395.jpg",
+		"discogsUrl": "https://www.discogs.com/release/19910395",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:15:19-07:00"
+	},
+	{
+		"releaseId": 11583031,
+		"artist": "John Lennon",
+		"title": "Lennon Legend (The Very Best Of John Lennon)",
+		"year": 1997,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/11583031.jpg",
+		"discogsUrl": "https://www.discogs.com/release/11583031",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:54:19-07:00"
+	},
+	{
+		"releaseId": 585371,
+		"artist": "Queen",
+		"title": "Heaven For Everyone",
+		"year": 1995,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/585371.jpg",
+		"discogsUrl": "https://www.discogs.com/release/585371",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:51:41-07:00"
+	},
+	{
+		"releaseId": 1777354,
+		"artist": "Queen",
+		"title": "No-One But You (Only The Good Die Young)",
+		"year": 1997,
+		"format": "CD",
+		"type": "Single",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/1777354.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1777354",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:22:03-07:00"
+	},
+	{
+		"releaseId": 6800472,
+		"artist": "Pink Floyd",
+		"title": "Wish You Were Here",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock",
+			"Prog Rock"
+		],
+		"cover": "/img/discogs/6800472.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6800472",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:39:19-07:00"
+	},
+	{
+		"releaseId": 27216612,
+		"artist": "Queen",
+		"title": "Queen Rocks",
+		"year": null,
+		"format": "Vinyl",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/27216612.jpg",
+		"discogsUrl": "https://www.discogs.com/release/27216612",
+		"featured": true,
+		"dateAdded": "2026-07-26T04:52:18-07:00"
+	},
+	{
+		"releaseId": 6771497,
+		"artist": "The Beatles",
+		"title": "Beatles For Sale",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Rock & Roll",
+			"Pop Rock",
+			"Beat"
+		],
+		"cover": "/img/discogs/6771497.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6771497",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:50:10-07:00"
+	},
+	{
+		"releaseId": 9499024,
+		"artist": "The Beatles",
+		"title": "With The Beatles",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Rock & Roll",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/9499024.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9499024",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:48:17-07:00"
+	},
+	{
+		"releaseId": 22397635,
+		"artist": "The Beatles",
+		"title": "Sgt. Pepper's Lonely Hearts Club Band",
+		"year": 2021,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Rock & Roll",
+			"Psychedelic Rock"
+		],
+		"cover": "/img/discogs/22397635.jpg",
+		"discogsUrl": "https://www.discogs.com/release/22397635",
+		"featured": true,
+		"dateAdded": "2026-01-14T01:38:06-08:00"
+	},
+	{
+		"releaseId": 1617108,
+		"artist": "Queen, Paul Rodgers",
+		"title": "Return Of The Champions",
+		"year": 2005,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Blues Rock",
+			"Hard Rock",
+			"Art Rock",
+			"Soft Rock"
+		],
+		"cover": "/img/discogs/1617108.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1617108",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:11:52-08:00"
+	},
+	{
+		"releaseId": 869020,
+		"artist": "Queen",
+		"title": "A Night At The Opera",
+		"year": 2005,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Art Rock",
+			"Prog Rock",
+			"Hard Rock",
+			"Glam"
+		],
+		"cover": "/img/discogs/869020.jpg",
+		"discogsUrl": "https://www.discogs.com/release/869020",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:49:10-07:00"
+	},
+	{
+		"releaseId": 7134664,
+		"artist": "Brian May",
+		"title": "Back To The Light",
+		"year": 1992,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Blues Rock",
+			"Hard Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/7134664.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7134664",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:15:13-07:00"
+	},
+	{
+		"releaseId": 805937,
+		"artist": "Queen",
+		"title": "Queen II",
+		"year": 1994,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Symphonic Rock"
+		],
+		"cover": "/img/discogs/805937.jpg",
+		"discogsUrl": "https://www.discogs.com/release/805937",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:47:25-07:00"
+	},
+	{
+		"releaseId": 7097581,
+		"artist": "Queen",
+		"title": "Queen",
+		"year": 1994,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Hard Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/7097581.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7097581",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:21:04-07:00"
+	},
+	{
+		"releaseId": 8966365,
+		"artist": "Queen",
+		"title": "Sheer Heart Attack",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Hard Rock"
+		],
+		"cover": "/img/discogs/8966365.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8966365",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:48:02-07:00"
+	},
+	{
+		"releaseId": 3528559,
+		"artist": "Queen",
+		"title": "News Of The World",
+		"year": 1993,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Symphonic Rock"
+		],
+		"cover": "/img/discogs/3528559.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3528559",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:44:54-07:00"
+	},
+	{
+		"releaseId": 369055,
+		"artist": "Queen",
+		"title": "Jazz",
+		"year": 1994,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/369055.jpg",
+		"discogsUrl": "https://www.discogs.com/release/369055",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:45:58-07:00"
+	},
+	{
+		"releaseId": 3100982,
+		"artist": "Queen",
+		"title": "The Game",
+		"year": 1994,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/3100982.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3100982",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:24:00-07:00"
+	},
+	{
+		"releaseId": 3229560,
+		"artist": "Queen",
+		"title": "Hot Space",
+		"year": 1994,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Funk / Soul",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock",
+			"Disco",
+			"Funk",
+			"Ballad"
+		],
+		"cover": "/img/discogs/3229560.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3229560",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:20:02-07:00"
+	},
+	{
+		"releaseId": 369067,
+		"artist": "Queen",
+		"title": "The Works",
+		"year": 1994,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/369067.jpg",
+		"discogsUrl": "https://www.discogs.com/release/369067",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:54:26-07:00"
+	},
+	{
+		"releaseId": 1503645,
+		"artist": "Queen",
+		"title": "Live Killers",
+		"year": 1994,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Hard Rock",
+			"Pop Rock",
+			"Arena Rock"
+		],
+		"cover": "/img/discogs/1503645.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1503645",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:20:38-07:00"
+	},
+	{
+		"releaseId": 1844910,
+		"artist": "Queen",
+		"title": "Greatest Hits",
+		"year": 1994,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/1844910.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1844910",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:23:30-07:00"
+	},
+	{
+		"releaseId": 369122,
+		"artist": "Queen",
+		"title": "Live At Wembley '86",
+		"year": 1992,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Arena Rock"
+		],
+		"cover": "/img/discogs/369122.jpg",
+		"discogsUrl": "https://www.discogs.com/release/369122",
+		"featured": true,
+		"dateAdded": "2026-07-20T12:34:46-07:00"
+	},
+	{
+		"releaseId": 31289987,
+		"artist": "Queen",
+		"title": "Live At Wembley Stadium",
+		"year": 2008,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Pop Rock",
+			"Arena Rock",
+			"Hard Rock",
+			"Concert Film"
+		],
+		"cover": "/img/discogs/31289987.jpg",
+		"discogsUrl": "https://www.discogs.com/release/31289987",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:04:05-08:00"
+	},
+	{
+		"releaseId": 28464883,
+		"artist": "Queen",
+		"title": "Greatest Hits III",
+		"year": 1999,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Electronic",
+			"Hip Hop",
+			"Rock"
+		],
+		"styles": [
+			"RnB/Swing",
+			"Pop Rock",
+			"Arena Rock",
+			"Classic Rock",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/28464883.jpg",
+		"discogsUrl": "https://www.discogs.com/release/28464883",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:25:06-07:00"
+	},
+	{
+		"releaseId": 369132,
+		"artist": "Roger Taylor",
+		"title": "Electric Fire",
+		"year": 1998,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/369132.jpg",
+		"discogsUrl": "https://www.discogs.com/release/369132",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:16:39-07:00"
+	},
+	{
+		"releaseId": 5118350,
+		"artist": "Queen",
+		"title": "Queen Rocks",
+		"year": 1997,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock",
+			"Glam"
+		],
+		"cover": "/img/discogs/5118350.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5118350",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:39:39-07:00"
+	},
+	{
+		"releaseId": 403087,
+		"artist": "Roger Taylor",
+		"title": "Happiness ?",
+		"year": 1994,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/403087.jpg",
+		"discogsUrl": "https://www.discogs.com/release/403087",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:17:40-07:00"
+	},
+	{
+		"releaseId": 16772085,
+		"artist": "Queen",
+		"title": "Made In Heaven",
+		"year": 1995,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/16772085.jpg",
+		"discogsUrl": "https://www.discogs.com/release/16772085",
+		"featured": true,
+		"dateAdded": "2026-07-19T08:25:29-07:00"
+	},
+	{
+		"releaseId": 1601335,
+		"artist": "Roger Taylor",
+		"title": "Roger Taylor's Fun In Space",
+		"year": 1996,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/1601335.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1601335",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:19:50-07:00"
+	},
+	{
+		"releaseId": 1856315,
+		"artist": "Roger Taylor",
+		"title": "Strange Frontier",
+		"year": 1996,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/1856315.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1856315",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:18:36-07:00"
+	},
+	{
+		"releaseId": 585364,
+		"artist": "Queen",
+		"title": "The Miracle",
+		"year": 1989,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/585364.jpg",
+		"discogsUrl": "https://www.discogs.com/release/585364",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:37:05-07:00"
+	},
+	{
+		"releaseId": 6739360,
+		"artist": "Queen",
+		"title": "Innuendo",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/6739360.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6739360",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:23:07-07:00"
+	},
+	{
+		"releaseId": 13421562,
+		"artist": "Queen",
+		"title": "Greatest Hits II",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Synth-pop",
+			"Arena Rock"
+		],
+		"cover": "/img/discogs/13421562.jpg",
+		"discogsUrl": "https://www.discogs.com/release/13421562",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:22:29-07:00"
+	},
+	{
+		"releaseId": 16777611,
+		"artist": "Gorillaz",
+		"title": "Demon Days",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Hip Hop",
+			"Rock",
+			"Funk / Soul"
+		],
+		"styles": [
+			"Trip Hop",
+			"Pop Rap",
+			"Pop Rock",
+			"Downtempo"
+		],
+		"cover": "/img/discogs/16777611.jpg",
+		"discogsUrl": "https://www.discogs.com/release/16777611",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:13:42-07:00"
+	},
+	{
+		"releaseId": 15045103,
+		"artist": "Queen",
+		"title": "Queen On Fire (Live At The Bowl)",
+		"year": 2004,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Non-Music"
+		],
+		"styles": [
+			"Pop Rock",
+			"Glam",
+			"Interview",
+			"Hard Rock",
+			"Arena Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/15045103.jpg",
+		"discogsUrl": "https://www.discogs.com/release/15045103",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:08:08-08:00"
+	},
+	{
+		"releaseId": 1962323,
+		"artist": "Queen",
+		"title": "Queen On Fire (Live At The Bowl)",
+		"year": 2004,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/1962323.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1962323",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:24:33-07:00"
+	},
+	{
+		"releaseId": 7148042,
+		"artist": "Daft Punk",
+		"title": "Discovery",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic"
+		],
+		"styles": [
+			"House",
+			"Electro",
+			"Disco"
+		],
+		"cover": "/img/discogs/7148042.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7148042",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:23:56-07:00"
+	},
+	{
+		"releaseId": 9834899,
+		"artist": "Pet Shop Boys",
+		"title": "Discography (The Complete Singles Collection)",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Electronic",
+			"Pop"
+		],
+		"styles": [
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/9834899.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9834899",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:27:42-07:00"
+	},
+	{
+		"releaseId": 6349443,
+		"artist": "Queen",
+		"title": "Greatest Video Hits 2",
+		"year": 2003,
+		"format": "DVD",
+		"type": "Compilation",
+		"genres": [
+			"Electronic",
+			"Rock",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Pop Rock",
+			"Arena Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/6349443.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6349443",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:05:24-08:00"
+	},
+	{
+		"releaseId": 461498,
+		"artist": "Queen",
+		"title": "Greatest Video Hits 1",
+		"year": 2002,
+		"format": "DVD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Arena Rock",
+			"Classic Rock",
+			"Art Rock",
+			"Glam",
+			"Hard Rock"
+		],
+		"cover": "/img/discogs/461498.jpg",
+		"discogsUrl": "https://www.discogs.com/release/461498",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:08:39-08:00"
+	},
+	{
+		"releaseId": 8162188,
+		"artist": "David Bowie",
+		"title": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+		"year": 2016,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Glam",
+			"Art Rock"
+		],
+		"cover": "/img/discogs/8162188.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8162188",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:37:32-08:00"
+	},
+	{
+		"releaseId": 8305158,
+		"artist": "Herberg De Troost",
+		"title": "Langs De Weg",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/8305158.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8305158",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:12:28-07:00"
+	},
+	{
+		"releaseId": 3662991,
+		"artist": "Moke (2), Metropole Orchestra, Jules Buckley",
+		"title": "Moke + Metropole Orkest",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Indie Rock",
+			"Britpop"
+		],
+		"cover": "/img/discogs/3662991.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3662991",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:03:53-07:00"
+	},
+	{
+		"releaseId": 2871651,
+		"artist": "Racoon (4)",
+		"title": "Liverpool Rain",
+		"year": 2011,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/2871651.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2871651",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:32:56-07:00"
+	},
+	{
+		"releaseId": 3510345,
+		"artist": "De Sjonnies",
+		"title": "Krenten Uit De Pap",
+		"year": 2002,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/3510345.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3510345",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:12:27-07:00"
+	},
+	{
+		"releaseId": 3261036,
+		"artist": "Smith & Burrows",
+		"title": "Funny Looking Angels",
+		"year": 2011,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Holiday"
+		],
+		"cover": "/img/discogs/3261036.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3261036",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:13:36-07:00"
+	},
+	{
+		"releaseId": 3082664,
+		"artist": "Seasick Steve",
+		"title": "You Can't Teach An Old Dog New Tricks",
+		"year": 2011,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Blues"
+		],
+		"styles": [
+			"Blues Rock"
+		],
+		"cover": "/img/discogs/3082664.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3082664",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:37:01-07:00"
+	},
+	{
+		"releaseId": 12232244,
+		"artist": "The Pogues",
+		"title": "The Very Best Of ...",
+		"year": 2001,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Alternative Rock",
+			"Folk Rock"
+		],
+		"cover": "/img/discogs/12232244.jpg",
+		"discogsUrl": "https://www.discogs.com/release/12232244",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:39:53-07:00"
+	},
+	{
+		"releaseId": 3041507,
+		"artist": "Herman van Veen",
+		"title": "Live In Carré 2000",
+		"year": 2001,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Non-Music",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Chanson",
+			"Comedy"
+		],
+		"cover": "/img/discogs/3041507.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3041507",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:22:27-07:00"
+	},
+	{
+		"releaseId": 822223,
+		"artist": "The Who",
+		"title": "Then And Now",
+		"year": 2004,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Mod",
+			"Psychedelic Rock",
+			"Pop Rock",
+			"Hard Rock"
+		],
+		"cover": "/img/discogs/822223.jpg",
+		"discogsUrl": "https://www.discogs.com/release/822223",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:59:09-07:00"
+	},
+	{
+		"releaseId": 17966587,
+		"artist": "Herman van Veen",
+		"title": "Er Was Eens... - Herman van Veen Zingt En Vertelt Een Kerstverhaal",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop"
+		],
+		"styles": [
+			"Vocal"
+		],
+		"cover": "/img/discogs/17966587.jpg",
+		"discogsUrl": "https://www.discogs.com/release/17966587",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:51:29-07:00"
+	},
+	{
+		"releaseId": 5173247,
+		"artist": "Herman van Veen",
+		"title": "Andere Namen",
+		"year": 2002,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/5173247.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5173247",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:53:07-07:00"
+	},
+	{
+		"releaseId": 5537014,
+		"artist": "Bigelf",
+		"title": "Cheat The Gallows",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock",
+			"Acid Rock",
+			"Psychedelic Rock",
+			"Prog Rock",
+			"Hard Rock"
+		],
+		"cover": "/img/discogs/5537014.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5537014",
+		"featured": true,
+		"dateAdded": "2026-07-19T13:29:47-07:00"
+	},
+	{
+		"releaseId": 4097885,
+		"artist": "Bigelf",
+		"title": "Hex",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Psychedelic Rock"
+		],
+		"cover": "/img/discogs/4097885.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4097885",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:12:30-07:00"
+	},
+	{
+		"releaseId": 4447841,
+		"artist": "Bigelf",
+		"title": "Closer To Doom",
+		"year": 2010,
+		"format": "CD",
+		"type": "EP",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Hard Rock",
+			"Psychedelic Rock",
+			"Prog Rock"
+		],
+		"cover": "/img/discogs/4447841.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4447841",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:06:46-07:00"
+	},
+	{
+		"releaseId": 15207521,
+		"artist": "Bigelf",
+		"title": "Money Machine",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock"
+		],
+		"cover": "/img/discogs/15207521.jpg",
+		"discogsUrl": "https://www.discogs.com/release/15207521",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:28:12-07:00"
+	},
+	{
+		"releaseId": 2816140,
+		"artist": "The Canadian Brass",
+		"title": "All You Need Is Love",
+		"year": 1998,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop",
+			"Classical",
+			"Brass & Military"
+		],
+		"styles": [
+			"Brass Band",
+			"Contemporary",
+			"Easy Listening"
+		],
+		"cover": "/img/discogs/2816140.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2816140",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:17:07-07:00"
+	},
+	{
+		"releaseId": 3285616,
+		"artist": "Bee Gees",
+		"title": "Number Ones",
+		"year": 2011,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Funk / Soul",
+			"Pop"
+		],
+		"styles": [
+			"Soft Rock",
+			"Rhythm & Blues",
+			"Pop Rock",
+			"Disco"
+		],
+		"cover": "/img/discogs/3285616.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3285616",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:05:51-07:00"
+	},
+	{
+		"releaseId": 15867588,
+		"artist": "Enya",
+		"title": "Paint The Sky With Stars - The Best Of Enya",
+		"year": 2004,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Celtic"
+		],
+		"cover": "/img/discogs/15867588.jpg",
+		"discogsUrl": "https://www.discogs.com/release/15867588",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:09:07-07:00"
+	},
+	{
+		"releaseId": 28467157,
+		"artist": "Chicago (2)",
+		"title": "Greatest Hits 1982-1989",
+		"year": 2004,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Soft Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/28467157.jpg",
+		"discogsUrl": "https://www.discogs.com/release/28467157",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:55:48-07:00"
+	},
+	{
+		"releaseId": 4393122,
+		"artist": "Rowwen Hèze",
+		"title": "Rodus & Lucius",
+		"year": 2006,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Folk"
+		],
+		"cover": "/img/discogs/4393122.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4393122",
+		"featured": true,
+		"dateAdded": "2026-07-20T12:21:57-07:00"
+	},
+	{
+		"releaseId": 2832779,
+		"artist": "Rowwen Hèze",
+		"title": "Saus",
+		"year": 2008,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/2832779.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2832779",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:21:40-07:00"
+	},
+	{
+		"releaseId": 5130036,
+		"artist": "Rowwen Hèze",
+		"title": "Zilver",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/5130036.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5130036",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:32:01-07:00"
+	},
+	{
+		"releaseId": 3396872,
+		"artist": "Rowwen Hèze",
+		"title": "Droemvlucht",
+		"year": 2007,
+		"format": "CD",
+		"type": "Single",
+		"genres": [
+			"Rock",
+			"Blues",
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/3396872.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3396872",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:33:16-07:00"
+	},
+	{
+		"releaseId": 4918522,
+		"artist": "Rowwen Hèze, Limburgs Symfonie Orkest, Venloos Vocaal Ensemble",
+		"title": "Lied Vur Limburg",
+		"year": 2007,
+		"format": "CD",
+		"type": "Single",
+		"genres": [
+			"Rock",
+			"Pop",
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/4918522.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4918522",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:33:01-07:00"
+	},
+	{
+		"releaseId": 3396919,
+		"artist": "Rowwen Hèze",
+		"title": "Nar Boave",
+		"year": 2008,
+		"format": "CD",
+		"type": "Single",
+		"genres": [
+			"Rock",
+			"Blues",
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/3396919.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3396919",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:33:44-07:00"
+	},
+	{
+		"releaseId": 3396901,
+		"artist": "Rowwen Hèze",
+		"title": "Vur Altied Is Vurbeej",
+		"year": 2008,
+		"format": "CD",
+		"type": "Single",
+		"genres": [
+			"Rock",
+			"Blues",
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/3396901.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3396901",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:33:33-07:00"
+	},
+	{
+		"releaseId": 12594653,
+		"artist": "Rowwen Hèze",
+		"title": "Saus",
+		"year": 2008,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/12594653.jpg",
+		"discogsUrl": "https://www.discogs.com/release/12594653",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:06:51-08:00"
+	},
+	{
+		"releaseId": 6031628,
+		"artist": "Chicago (2)",
+		"title": "Chicago IX Greatest Hits Vol 1",
+		"year": 2005,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/6031628.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6031628",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:55:16-07:00"
+	},
+	{
+		"releaseId": 3040369,
+		"artist": "Eagles",
+		"title": "The Complete Greatest Hits",
+		"year": 2008,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Country Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/3040369.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3040369",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:13:50-07:00"
+	},
+	{
+		"releaseId": 5226537,
+		"artist": "Chicago (2)",
+		"title": "Chicago IX - Chicago's Greatest Hits",
+		"year": 2012,
+		"format": "Vinyl",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Soft Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/5226537.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5226537",
+		"featured": true,
+		"dateAdded": "2026-01-14T01:37:01-08:00"
+	},
+	{
+		"releaseId": 702889,
+		"artist": "Chicago (2)",
+		"title": "Chicago Transit Authority",
+		"year": 2002,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz",
+			"Rock"
+		],
+		"styles": [
+			"Jazz-Rock",
+			"Prog Rock",
+			"Blues Rock",
+			"Noise",
+			"Fusion"
+		],
+		"cover": "/img/discogs/702889.jpg",
+		"discogsUrl": "https://www.discogs.com/release/702889",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:45:08-07:00"
+	},
+	{
+		"releaseId": 10097960,
+		"artist": "Jaya The Cat",
+		"title": "Basement Style",
+		"year": 2017,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Reggae"
+		],
+		"styles": [
+			"Punk",
+			"Ska"
+		],
+		"cover": "/img/discogs/10097960.jpg",
+		"discogsUrl": "https://www.discogs.com/release/10097960",
+		"featured": true,
+		"dateAdded": "2026-01-14T01:53:26-08:00"
+	},
+	{
+		"releaseId": 17355319,
+		"artist": "Dream Theater",
+		"title": "Black Clouds & Silver Linings",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/17355319.jpg",
+		"discogsUrl": "https://www.discogs.com/release/17355319",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:33:50-07:00"
+	},
+	{
+		"releaseId": 5787772,
+		"artist": "Dream Theater",
+		"title": "Chaos In Motion",
+		"year": 2008,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Rock"
+		],
+		"styles": [
+			"Ambient",
+			"Prog Rock",
+			"Heavy Metal"
+		],
+		"cover": "/img/discogs/5787772.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5787772",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:12:59-08:00"
+	},
+	{
+		"releaseId": 2512944,
+		"artist": "Dream Theater",
+		"title": "Black Clouds & Silver Linings",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Heavy Metal",
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/2512944.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2512944",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:32:25-07:00"
+	},
+	{
+		"releaseId": 2777250,
+		"artist": "Dream Theater",
+		"title": "Systematic Chaos",
+		"year": 2007,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/2777250.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2777250",
+		"featured": true,
+		"dateAdded": "2026-07-23T07:27:00-07:00"
+	},
+	{
+		"releaseId": 2168969,
+		"artist": "Delain",
+		"title": "April Rain",
+		"year": 2009,
+		"format": "CD",
+		"type": "Single",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Symphonic Metal"
+		],
+		"cover": "/img/discogs/2168969.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2168969",
+		"featured": true,
+		"dateAdded": "2026-07-20T14:39:06-07:00"
+	},
+	{
+		"releaseId": 3095773,
+		"artist": "Dream Theater",
+		"title": "A Dramatic Turn Of Events",
+		"year": 2011,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock"
+		],
+		"cover": "/img/discogs/3095773.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3095773",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:31:31-07:00"
+	},
+	{
+		"releaseId": 6137792,
+		"artist": "Porcupine Tree",
+		"title": "Fear Of A Blank Planet",
+		"year": 2007,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock"
+		],
+		"cover": "/img/discogs/6137792.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6137792",
+		"featured": false,
+		"dateAdded": "2026-07-19T08:43:37-07:00"
+	},
+	{
+		"releaseId": 2975309,
+		"artist": "Flogging Molly",
+		"title": "Drunken Lullabies",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Punk",
+			"Celtic"
+		],
+		"cover": "/img/discogs/2975309.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2975309",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:45:30-07:00"
+	},
+	{
+		"releaseId": 3657037,
+		"artist": "Louis Armstrong",
+		"title": "The Complete Collection",
+		"year": 2007,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Jazz",
+			"Pop"
+		],
+		"styles": [
+			"Easy Listening",
+			"Swing",
+			"Vocal"
+		],
+		"cover": "/img/discogs/3657037.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3657037",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:34:27-07:00"
+	},
+	{
+		"releaseId": 1133767,
+		"artist": "Led Zeppelin",
+		"title": "Mothership",
+		"year": 2007,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Blues"
+		],
+		"styles": [
+			"Blues Rock",
+			"Hard Rock"
+		],
+		"cover": "/img/discogs/1133767.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1133767",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:52:17-07:00"
+	},
+	{
+		"releaseId": 8464081,
+		"artist": "Ernst Mosch Und Seine Original Egerländer Musikanten",
+		"title": "Ein Klang Begeistert Die Welt",
+		"year": 1990,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Brass & Military",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Brass Band",
+			"Marches",
+			"Polka",
+			"Volksmusik"
+		],
+		"cover": "/img/discogs/8464081.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8464081",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:18:36-07:00"
+	},
+	{
+		"releaseId": 6147337,
+		"artist": "Benjamin Koppel",
+		"title": "The Benjamin Koppel Jazz Journey #10, The Final Word",
+		"year": 2012,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Jazz"
+		],
+		"styles": [],
+		"cover": "/img/discogs/6147337.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6147337",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:42:44-07:00"
+	},
+	{
+		"releaseId": 5848773,
+		"artist": "Typhoon (4)",
+		"title": "Lobi Da Basi",
+		"year": 2014,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Hip Hop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/5848773.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5848773",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:10:52-07:00"
+	},
+	{
+		"releaseId": 26087104,
+		"artist": "Steven Wilson",
+		"title": "The Raven That Refused To Sing (And Other Stories)",
+		"year": 2023,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Art Rock",
+			"Prog Rock",
+			"Fusion"
+		],
+		"cover": "/img/discogs/26087104.jpg",
+		"discogsUrl": "https://www.discogs.com/release/26087104",
+		"featured": true,
+		"dateAdded": "2026-07-24T10:01:25-07:00"
+	},
+	{
+		"releaseId": 2246309,
+		"artist": "Jurk!",
+		"title": "Avondjurk",
+		"year": 2010,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/2246309.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2246309",
+		"featured": false,
+		"dateAdded": "2026-07-23T08:08:39-07:00"
+	},
+	{
+		"releaseId": 695236,
+		"artist": "Gerry Rafferty",
+		"title": "Snakes And Ladders",
+		"year": 1980,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/695236.jpg",
+		"discogsUrl": "https://www.discogs.com/release/695236",
+		"featured": true,
+		"dateAdded": "2026-01-14T01:50:20-08:00"
+	},
+	{
+		"releaseId": 996113,
+		"artist": "Gerry Rafferty",
+		"title": "City To City",
+		"year": 1978,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/996113.jpg",
+		"discogsUrl": "https://www.discogs.com/release/996113",
+		"featured": true,
+		"dateAdded": "2026-01-14T01:49:41-08:00"
+	},
+	{
+		"releaseId": 9276774,
+		"artist": "Cesar Zuiderwijk",
+		"title": "Alle Gekheid Met Een Stokje",
+		"year": 2004,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [],
+		"cover": "/img/discogs/9276774.jpg",
+		"discogsUrl": "https://www.discogs.com/release/9276774",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:08:50-08:00"
+	},
+	{
+		"releaseId": 13723109,
+		"artist": "Herman van Veen",
+		"title": "100",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Folk, World, & Country"
+		],
+		"styles": [],
+		"cover": "/img/discogs/13723109.jpg",
+		"discogsUrl": "https://www.discogs.com/release/13723109",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:54:25-07:00"
+	},
+	{
+		"releaseId": 3655879,
+		"artist": "Skik",
+		"title": "Best Tof",
+		"year": 2004,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Blues",
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/3655879.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3655879",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:37:26-07:00"
+	},
+	{
+		"releaseId": 511126,
+		"artist": "Lohues & The Louisiana Blues Club",
+		"title": "Ja Boeh",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Blues"
+		],
+		"styles": [
+			"Blues Rock",
+			"Louisiana Blues"
+		],
+		"cover": "/img/discogs/511126.jpg",
+		"discogsUrl": "https://www.discogs.com/release/511126",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:50:24-07:00"
+	},
+	{
+		"releaseId": 3785768,
+		"artist": "Golden Earring",
+		"title": "Tits 'n Ass",
+		"year": 2012,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/3785768.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3785768",
+		"featured": false,
+		"dateAdded": "2026-07-23T06:16:34-07:00"
+	},
+	{
+		"releaseId": 8686882,
+		"artist": "Dizzy Man's Band",
+		"title": "The Golden Years Of Dutch Pop Music (A&B Sides And More)",
+		"year": 2015,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Pop"
+		],
+		"styles": [
+			"Europop"
+		],
+		"cover": "/img/discogs/8686882.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8686882",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:27:31-07:00"
+	},
+	{
+		"releaseId": 7046403,
+		"artist": "Various",
+		"title": "Gerard Ekdom's BBQ Box 2014",
+		"year": 2014,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Electronic",
+			"Reggae",
+			"Latin",
+			"Funk / Soul",
+			"Pop",
+			"Classical"
+		],
+		"styles": [
+			"Reggae",
+			"Italo-Disco",
+			"Europop",
+			"Eurodance",
+			"Dance-pop"
+		],
+		"cover": "/img/discogs/7046403.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7046403",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:05:38-07:00"
+	},
+	{
+		"releaseId": 2108537,
+		"artist": "Dire Straits",
+		"title": "On The Night",
+		"year": 2004,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Prog Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/2108537.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2108537",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:10:22-08:00"
+	},
+	{
+		"releaseId": 1502820,
+		"artist": "Ilse DeLange",
+		"title": "Incredible",
+		"year": 2008,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Country Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/1502820.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1502820",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:21:51-07:00"
+	},
+	{
+		"releaseId": 902183,
+		"artist": "Ilse DeLange",
+		"title": "The Great Escape",
+		"year": 2006,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock",
+			"Country Rock"
+		],
+		"cover": "/img/discogs/902183.jpg",
+		"discogsUrl": "https://www.discogs.com/release/902183",
+		"featured": true,
+		"dateAdded": "2026-07-23T07:19:40-07:00"
+	},
+	{
+		"releaseId": 1024172,
+		"artist": "Amy Winehouse",
+		"title": "Back To Black",
+		"year": 2006,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz",
+			"Funk / Soul",
+			"Blues",
+			"Pop"
+		],
+		"styles": [
+			"Soul",
+			"Contemporary Jazz",
+			"Contemporary R&B"
+		],
+		"cover": "/img/discogs/1024172.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1024172",
+		"featured": true,
+		"dateAdded": "2026-07-20T13:58:21-07:00"
+	},
+	{
+		"releaseId": 26648420,
+		"artist": "Ruben Hein",
+		"title": "Oceans",
+		"year": 2022,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Jazz"
+		],
+		"styles": [],
+		"cover": "/img/discogs/26648420.jpg",
+		"discogsUrl": "https://www.discogs.com/release/26648420",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:45:14-08:00"
+	},
+	{
+		"releaseId": 6498929,
+		"artist": "Dire Straits",
+		"title": "On The Night",
+		"year": 1996,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/6498929.jpg",
+		"discogsUrl": "https://www.discogs.com/release/6498929",
+		"featured": true,
+		"dateAdded": "2026-07-20T14:10:32-07:00"
+	},
+	{
+		"releaseId": 1509872,
+		"artist": "Dire Straits",
+		"title": "Brothers In Arms",
+		"year": 1996,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Blues Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/1509872.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1509872",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:12:48-07:00"
+	},
+	{
+		"releaseId": 27448578,
+		"artist": "The Cross (3)",
+		"title": "Shove It",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/27448578.jpg",
+		"discogsUrl": "https://www.discogs.com/release/27448578",
+		"featured": true,
+		"dateAdded": "2026-07-20T14:15:53-07:00"
+	},
+	{
+		"releaseId": 7521061,
+		"artist": "Queen",
+		"title": "Studio Collection",
+		"year": 2015,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/7521061.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7521061",
+		"featured": false,
+		"dateAdded": "2026-01-01T05:17:32-08:00"
+	},
+	{
+		"releaseId": 16929087,
+		"artist": "Queen",
+		"title": "Live At The Rainbow '74",
+		"year": 2014,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/16929087.jpg",
+		"discogsUrl": "https://www.discogs.com/release/16929087",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:03:02-08:00"
+	},
+	{
+		"releaseId": 2482587,
+		"artist": "Genesis",
+		"title": "Live At Wembley Stadium",
+		"year": 2003,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Soft Rock",
+			"Pop Rock",
+			"Prog Rock"
+		],
+		"cover": "/img/discogs/2482587.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2482587",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:10:48-08:00"
+	},
+	{
+		"releaseId": 7323377,
+		"artist": "Lenny Kravitz",
+		"title": "Greatest Hits",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/7323377.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7323377",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:58:25-07:00"
+	},
+	{
+		"releaseId": 1014474,
+		"artist": "Genesis",
+		"title": "Turn It On Again (The Hits) (The Tour Edition)",
+		"year": 2007,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Soft Rock",
+			"Pop Rock",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/1014474.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1014474",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:03:24-07:00"
+	},
+	{
+		"releaseId": 657728,
+		"artist": "Genesis",
+		"title": "Invisible Touch",
+		"year": 1986,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/657728.jpg",
+		"discogsUrl": "https://www.discogs.com/release/657728",
+		"featured": true,
+		"dateAdded": "2026-07-24T09:56:38-07:00"
+	},
+	{
+		"releaseId": 3161426,
+		"artist": "Mark Mancina, Phil Collins",
+		"title": "Brother Bear - An Original Disney Records Soundtrack",
+		"year": 2003,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Soundtrack",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/3161426.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3161426",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:52:45-07:00"
+	},
+	{
+		"releaseId": 2158999,
+		"artist": "Phil Collins, Mark Mancina",
+		"title": "Tarzan (An Original Walt Disney Records Soundtrack)",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Pop",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Soundtrack",
+			"Score",
+			"Ballad"
+		],
+		"cover": "/img/discogs/2158999.jpg",
+		"discogsUrl": "https://www.discogs.com/release/2158999",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:57:55-07:00"
+	},
+	{
+		"releaseId": 3921775,
+		"artist": "Michael Giacchino",
+		"title": "The Incredibles (An Original Soundtrack)",
+		"year": 2004,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Big Band",
+			"Swing",
+			"Score",
+			"Soundtrack"
+		],
+		"cover": "/img/discogs/3921775.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3921775",
+		"featured": false,
+		"dateAdded": "2026-07-20T13:43:47-07:00"
+	},
+	{
+		"releaseId": 5047304,
+		"artist": "America (2)",
+		"title": "Homecoming",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Folk Rock",
+			"Soft Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/5047304.jpg",
+		"discogsUrl": "https://www.discogs.com/release/5047304",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:41:53-07:00"
+	},
+	{
+		"releaseId": 10778624,
+		"artist": "Ilse DeLange",
+		"title": "World Of Hurt",
+		"year": 1999,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Country Rock",
+			"Country"
+		],
+		"cover": "/img/discogs/10778624.jpg",
+		"discogsUrl": "https://www.discogs.com/release/10778624",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:16:50-07:00"
+	},
+	{
+		"releaseId": 8333261,
+		"artist": "The Doobie Brothers",
+		"title": "Listen To The Music ⋅ The Very Best Of The Doobie Brothers",
+		"year": 1993,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Country Rock",
+			"Soft Rock"
+		],
+		"cover": "/img/discogs/8333261.jpg",
+		"discogsUrl": "https://www.discogs.com/release/8333261",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:27:10-07:00"
+	},
+	{
+		"releaseId": 3292308,
+		"artist": "Red Hot Chili Peppers",
+		"title": "Greatest Hits",
+		"year": 2006,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Alternative Rock"
+		],
+		"cover": "/img/discogs/3292308.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3292308",
+		"featured": false,
+		"dateAdded": "2026-07-20T14:05:11-07:00"
+	},
+	{
+		"releaseId": 12350845,
+		"artist": "Muse",
+		"title": "The Resistance",
+		"year": 2009,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Alternative Rock",
+			"Prog Rock",
+			"Symphonic Rock"
+		],
+		"cover": "/img/discogs/12350845.jpg",
+		"discogsUrl": "https://www.discogs.com/release/12350845",
+		"featured": true,
+		"dateAdded": "2026-07-19T08:56:02-07:00"
+	},
+	{
+		"releaseId": 22013524,
+		"artist": "Phil Collins",
+		"title": "Testify",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Soft Rock",
+			"Pop Rock",
+			"Synth-pop"
+		],
+		"cover": "/img/discogs/22013524.jpg",
+		"discogsUrl": "https://www.discogs.com/release/22013524",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:59:55-07:00"
+	},
+	{
+		"releaseId": 13429336,
+		"artist": "Dream Theater",
+		"title": "Score (20th Anniversary World Tour)",
+		"year": 2006,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Progressive Metal",
+			"Symphonic Rock"
+		],
+		"cover": "/img/discogs/13429336.jpg",
+		"discogsUrl": "https://www.discogs.com/release/13429336",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:11:28-08:00"
+	},
+	{
+		"releaseId": 1826508,
+		"artist": "Phil Collins",
+		"title": "Finally... The First Farewell Tour",
+		"year": 2004,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Jazz",
+			"Rock",
+			"Non-Music",
+			"Pop"
+		],
+		"styles": [
+			"Free Jazz",
+			"Soft Rock",
+			"Comedy",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/1826508.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1826508",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:06:09-08:00"
+	},
+	{
+		"releaseId": 3993516,
+		"artist": "Cream (2)",
+		"title": "Royal Albert Hall - London - May 2-3-5-6 05",
+		"year": 2005,
+		"format": "DVD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Stage & Screen"
+		],
+		"styles": [
+			"Classic Rock",
+			"Psychedelic Rock",
+			"Blues Rock",
+			"Concert Film"
+		],
+		"cover": "/img/discogs/3993516.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3993516",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:13:42-08:00"
+	},
+	{
+		"releaseId": 745353,
+		"artist": "The Pogues",
+		"title": "Dirty Old Town",
+		"year": 2005,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Folk Rock",
+			"Acoustic"
+		],
+		"cover": "/img/discogs/745353.jpg",
+		"discogsUrl": "https://www.discogs.com/release/745353",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:50:46-07:00"
+	},
+	{
+		"releaseId": 715899,
+		"artist": "Ilse DeLange",
+		"title": "Livin' On Love",
+		"year": 2000,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Country Rock",
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/715899.jpg",
+		"discogsUrl": "https://www.discogs.com/release/715899",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:25:36-07:00"
+	},
+	{
+		"releaseId": 1690239,
+		"artist": "Ilse DeLange",
+		"title": "Clean Up",
+		"year": 2003,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [],
+		"cover": "/img/discogs/1690239.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1690239",
+		"featured": false,
+		"dateAdded": "2026-07-23T07:17:47-07:00"
+	},
+	{
+		"releaseId": 21900514,
+		"artist": "Phil Collins",
+		"title": "...Hits",
+		"year": null,
+		"format": "CD",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Soft Rock"
+		],
+		"cover": "/img/discogs/21900514.jpg",
+		"discogsUrl": "https://www.discogs.com/release/21900514",
+		"featured": false,
+		"dateAdded": "2026-07-19T12:46:09-07:00"
+	},
+	{
+		"releaseId": 18279997,
+		"artist": "Buena Vista Social Club",
+		"title": "Buena Vista Social Club",
+		"year": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz",
+			"Latin"
+		],
+		"styles": [
+			"Afro-Cuban Jazz",
+			"Son",
+			"Trova",
+			"Danzon",
+			"Bolero",
+			"Guajira",
+			"Ballad"
+		],
+		"cover": "/img/discogs/18279997.jpg",
+		"discogsUrl": "https://www.discogs.com/release/18279997",
+		"featured": false,
+		"dateAdded": "2026-07-19T13:36:03-07:00"
+	},
+	{
+		"releaseId": 778010,
+		"artist": "Bert & Ernie",
+		"title": "Maak Er Wat Van!",
+		"year": 1983,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Non-Music",
+			"Children's"
+		],
+		"styles": [
+			"Radioplay",
+			"Educational"
+		],
+		"cover": "/img/discogs/778010.jpg",
+		"discogsUrl": "https://www.discogs.com/release/778010",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:46:16-08:00"
+	},
+	{
+		"releaseId": 771314,
+		"artist": "Bert & Ernie",
+		"title": "Kerstfeest Met Bert & Ernie",
+		"year": 1984,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Children's"
+		],
+		"styles": [
+			"Radioplay",
+			"Holiday"
+		],
+		"cover": "/img/discogs/771314.jpg",
+		"discogsUrl": "https://www.discogs.com/release/771314",
+		"featured": false,
+		"dateAdded": "2026-01-14T01:28:40-08:00"
+	},
+	{
+		"releaseId": 4901991,
+		"artist": "The Prodigy",
+		"title": "The Fat Of The Land",
+		"year": 1997,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Electronic",
+			"Hip Hop"
+		],
+		"styles": [
+			"Breakbeat",
+			"Big Beat"
+		],
+		"cover": "/img/discogs/4901991.jpg",
+		"discogsUrl": "https://www.discogs.com/release/4901991",
+		"featured": true,
+		"dateAdded": "2026-07-19T12:24:14-07:00"
+	},
+	{
+		"releaseId": 11403016,
+		"artist": "Vincent Veneman 10",
+		"title": "Vincent Veneman 10",
+		"year": 2017,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Jazz",
+			"Classical",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Baroque",
+			"Classical",
+			"Contemporary Jazz",
+			"Folk"
+		],
+		"cover": "/img/discogs/11403016.jpg",
+		"discogsUrl": "https://www.discogs.com/release/11403016",
+		"featured": false,
+		"dateAdded": "2026-07-20T12:54:50-07:00"
+	}
+]
