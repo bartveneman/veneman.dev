@@ -1,6 +1,10 @@
 [build]
-  command = "npm run build"
+  command = "pnpm run build"
   publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "24"
+  NETLIFY_TOOLBAR = "false"
 
 [[redirects]]
   from = "/.well-known/avatar"
