@@ -4,6 +4,7 @@
 
 [build.environment]
   NODE_VERSION = "24"
+  NETLIFY_TOOLBAR = "false"
 
 [[redirects]]
   from = "/.well-known/avatar"
