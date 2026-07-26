@@ -1,5 +1,5 @@
 html {
-	overflow-x: hidden;
+	accent-color: LightSeaGreen;
 }
 
 * {
@@ -130,6 +130,9 @@ h1+time {
 }
 
 /* COLOR SCHEME */
+html {
+	color-scheme: light;
+}
 
 body {
 	color: hsl(200, 30%, 20%);
@@ -190,6 +193,9 @@ picture+picture {
 }
 
 @media screen and (prefers-color-scheme: dark) {
+	html {
+		color-scheme: dark;
+	}
 	body {
 		color: hsl(200, 10%, 85%);
 		background-color: hsl(200, 30%, 10%);

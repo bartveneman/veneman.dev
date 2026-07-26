@@ -6,7 +6,8 @@
 	"scripts": {
 		"dev": "rm -rf _site; ENV=development eleventy --serve",
 		"build": "eleventy",
-		"fetch:discogs": "node --env-file=.env scripts/fetch-discogs.js"
+		"fetch:discogs": "node --env-file=.env scripts/fetch-discogs.js",
+		"fetch:lastfm": "node --env-file=.env scripts/fetch-lastfm.js"
 	},
 	"type": "module",
 	"devDependencies": {

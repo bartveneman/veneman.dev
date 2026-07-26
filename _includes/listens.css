@@ -10,6 +10,8 @@
 		padding: 0;
 		margin: 0;
 		min-width: 10em;
+		max-height: 10em;
+		column-width: 12rem;
 	}
 
 	legend {
