@@ -63,5 +63,5 @@ else
 More privacy. More better.
 
 <aside>
-<i>If you liked this post and you're interested in using Fathom Analytics, please consider using <a href="https://usefathom.com/ref/I6TUXR" rel="noopener external">my affiliate link</a> to setup your account and you'll get $10 off your first invoice!</i>
+<i>If you liked this post and you're interested in using Fathom Analytics, please consider using <a href="https://usefathom.com/ref/I6TUXR" rel="external">my affiliate link</a> to setup your account and you'll get $10 off your first invoice!</i>
 </aside>
