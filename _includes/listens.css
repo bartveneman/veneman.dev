@@ -9,29 +9,29 @@
 		border: none;
 		padding: 0;
 		margin: 0;
-		min-width: 10em;
+		min-inline-size: 10em;
 	}
 
 	legend {
 		font-weight: bold;
 		padding: 0;
-		margin-bottom: .5em;
+		margin-block-end: .5em;
 	}
 
 	label {
 		display: block;
-		margin-top: .25em;
+		margin-block-start: .25em;
 	}
 }
 
 /* Overrides style.css for this page only */
 body:has(#listens-grid) {
-	width: 100%;
-	max-width: none;
+	inline-size: 100%;
+	max-inline-size: none;
 }
 
 main:has(#listens-grid) {
-	width: 100%;
+	inline-size: 100%;
 	justify-self: stretch;
 }
 
@@ -39,23 +39,73 @@ main:has(#listens-grid) {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(16em, 1fr));
 	gap: 1em;
-	margin-top: 2em;
-}
+	margin-block-start: 2em;
 
-#listens-grid li {
-	margin: 0;
-}
+	li {
+		margin: 0;
 
-#listens-grid li[hidden] {
-	display: none;
-}
+		&[data-format="DVD"] img {
+			aspect-ratio: 2 / 3;
+		}
+	}
 
-#listens-grid img {
-	width: 100%;
-	aspect-ratio: 1 / 1;
-	object-fit: cover;
-}
+	figure {
+		position: relative;
+		margin: 0;
+	}
 
-#listens-grid li[data-format="DVD"] img {
-	aspect-ratio: 2 / 3;
+	a {
+		display: block;
+		text-decoration: none;
+
+		&::after {
+			content: '';
+			position: absolute;
+			inset: 0;
+		}
+	}
+
+	img {
+		inline-size: 100%;
+		aspect-ratio: 1 / 1;
+		object-fit: cover;
+	}
+
+	figcaption {
+		position: absolute;
+		inset-block: 0;
+		inset-inline: 0;
+		padding-block: 1.5em .75em;
+		padding-inline: .75em;
+		background: linear-gradient(to top, rgb(0 0 0 / 95%), rgb(0 0 0 / 50%));
+		opacity: 0;
+		transition: opacity .15s ease;
+		display: flex;
+		align-items: end;
+
+		dl {
+			margin: 0;
+			color: #fff;
+			display: flex;
+			flex-direction: column;
+			row-gap: 0.5rem;
+		}
+
+		dt {
+			font-size: smaller;
+			font-weight: 900;
+			text-transform: uppercase;
+			letter-spacing: .03em;
+		}
+
+		dd {
+			margin-inline-start: 0;
+			line-height: 1.2;
+		}
+	}
+
+	figure:hover figcaption,
+	figure:focus-within figcaption {
+		opacity: 1;
+	}
 }
