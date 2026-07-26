@@ -1,6 +1,9 @@
 [build]
-  command = "npm run build"
+  command = "pnpm run build"
   publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "24"
 
 [[redirects]]
   from = "/.well-known/avatar"
