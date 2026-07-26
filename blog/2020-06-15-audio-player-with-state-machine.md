@@ -6,9 +6,9 @@ tags: ['javascript', 'html', 'state-machine']
 The `<audio>` element is a tiny, yet powerful thing. As an exercise to improve my knowledge about State Machines [with XState](https://xstate.js.org), I thought it would be fun to implement a State Machine for an audio player.
 
 <p class="codepen" data-height="351" data-theme-id="dark" data-default-tab="js,result" data-user="bartveneman" data-slug-hash="BajNBrx" data-preview="true" style="height: 351px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Audio player in vanilla JS with State Machine (xstate)">
-  <span>See the Pen <a href="https://codepen.io/bartveneman/pen/BajNBrx" rel="noopener external">
-  Audio player in vanilla JS with State Machine (xstate)</a> by Bart Veneman (<a href="https://codepen.io/bartveneman" rel="noopener external">@bartveneman</a>)
-  on <a href="https://codepen.io" rel="noopener external">CodePen</a>.</span>
+  <span>See the Pen <a href="https://codepen.io/bartveneman/pen/BajNBrx" rel=" external">
+  Audio player in vanilla JS with State Machine (xstate)</a> by Bart Veneman (<a href="https://codepen.io/bartveneman" rel=" external">@bartveneman</a>)
+  on <a href="https://codepen.io" rel=" external">CodePen</a>.</span>
 </p>
 <script defer src="https://static.codepen.io/assets/embed/ei.js"></script>
 

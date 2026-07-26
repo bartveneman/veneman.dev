@@ -191,11 +191,11 @@ picture+picture {
 
 @media screen and (prefers-color-scheme: dark) {
 	body {
-		color: hsl(200, 10%, 80%);
+		color: hsl(200, 10%, 85%);
 		background-color: hsl(200, 30%, 10%);
 	}
 	h1 {
-		color: hsl(200, 12%, 75%);
+		color: hsl(200, 12%, 85%);
 	}
 	hr {
 		background-color: hsl(200, 20%, 30%);
@@ -204,7 +204,7 @@ picture+picture {
 		fill: hsl(200, 50%, 40%);
 	}
 	.bio, footer {
-		color: hsl(200, 20%, 60%);
+		color: hsl(200, 20%, 70%);
 	}
 	time {
 		color: hsl(200, 20%, 50%);
