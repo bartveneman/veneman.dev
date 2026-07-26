@@ -5,7 +5,8 @@
 	"packageManager": "pnpm@11.15.0",
 	"scripts": {
 		"dev": "rm -rf _site; ENV=development eleventy --serve",
-		"build": "eleventy"
+		"build": "eleventy",
+		"fetch:discogs": "node --env-file=.env scripts/fetch-discogs.js"
 	},
 	"type": "module",
 	"devDependencies": {

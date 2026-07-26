@@ -22,6 +22,7 @@ export default (eleventyConfig) => {
 	eleventyConfig.addPassthroughCopy('robots.txt')
 	eleventyConfig.addPassthroughCopy('.well-known')
 	eleventyConfig.addPassthroughCopy('_includes/*.css')
+	eleventyConfig.addPassthroughCopy('_includes/*.js')
 
 	// LAYOUTS
 	eleventyConfig.addLayoutAlias('default', 'layouts/default.html')

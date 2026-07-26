@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="/_includes/style.css" />
     <link rel="stylesheet" href="/_includes/typography.css" />
     <link rel="stylesheet" href="/_includes/prism.css" />
+    {% if extraCss %}<link rel="stylesheet" href="{{ extraCss }}" />{% endif %}
 
     <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -68,5 +69,6 @@
         >
       </p>
     </footer>
+    {% if extraJs %}<script src="{{ extraJs }}" defer></script>{% endif %}
   </body>
 </html>
