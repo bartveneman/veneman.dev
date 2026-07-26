@@ -4,6 +4,7 @@
 		"artist": "Racoon (4)",
 		"title": "Before You Leave",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -20,6 +21,7 @@
 		"artist": "Herman Finkers",
 		"title": "Koo Wit De Floo In Almelo",
 		"year": 2015,
+		"originalYear": 2015,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -38,6 +40,7 @@
 		"artist": "Armin van Buuren",
 		"title": "Imagine - The Remixes",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -57,6 +60,7 @@
 		"artist": "Supertramp",
 		"title": "Retrospectacle (The Supertramp Anthology)",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -75,6 +79,7 @@
 		"artist": "Herb Alpert",
 		"title": "The Very Best Of",
 		"year": 1991,
+		"originalYear": 1991,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -97,6 +102,7 @@
 		"artist": "The Police",
 		"title": "Every Breath You Take (The Classics)",
 		"year": 2003,
+		"originalYear": 1995,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -116,6 +122,7 @@
 		"artist": "The Swell Season",
 		"title": "Strict Joy",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -135,6 +142,7 @@
 		"artist": "The Beatles",
 		"title": "Abbey Road",
 		"year": 2009,
+		"originalYear": 1969,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -153,6 +161,7 @@
 		"artist": "The Beatles",
 		"title": "1",
 		"year": 2000,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -173,6 +182,7 @@
 		"artist": "Wings (2)",
 		"title": "Band On The Run",
 		"year": null,
+		"originalYear": 1973,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -191,6 +201,7 @@
 		"artist": "The Beatles",
 		"title": "Abbey Road",
 		"year": 2012,
+		"originalYear": 1969,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -209,6 +220,7 @@
 		"artist": "The Beatles",
 		"title": "Let It Be... Naked",
 		"year": 2003,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -227,6 +239,7 @@
 		"artist": "The Beatles",
 		"title": "Love",
 		"year": 2006,
+		"originalYear": 2006,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -246,6 +259,7 @@
 		"artist": "The Beatles",
 		"title": "A Hard Day's Night",
 		"year": null,
+		"originalYear": 1964,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -268,6 +282,7 @@
 		"artist": "The Beatles",
 		"title": "Help!",
 		"year": null,
+		"originalYear": 1965,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -292,6 +307,7 @@
 		"artist": "The Beatles",
 		"title": "Please Please Me",
 		"year": null,
+		"originalYear": 1963,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -310,6 +326,7 @@
 		"artist": "The Beatles",
 		"title": "Revolver",
 		"year": null,
+		"originalYear": 1966,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -329,6 +346,7 @@
 		"artist": "The Beatles",
 		"title": "Rubber Soul",
 		"year": null,
+		"originalYear": 1965,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -348,6 +366,7 @@
 		"artist": "The Beatles",
 		"title": "Sgt. Pepper's Lonely Hearts Club Band",
 		"year": null,
+		"originalYear": 1967,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -367,6 +386,7 @@
 		"artist": "The Beatles",
 		"title": "Magical Mystery Tour",
 		"year": null,
+		"originalYear": 1967,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -388,6 +408,7 @@
 		"artist": "The Beatles",
 		"title": "Yellow Submarine",
 		"year": null,
+		"originalYear": 1969,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -409,6 +430,7 @@
 		"artist": "The Beatles",
 		"title": "Let It Be",
 		"year": 2009,
+		"originalYear": 1970,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -428,6 +450,7 @@
 		"artist": "3JS",
 		"title": "Watermensen",
 		"year": 2007,
+		"originalYear": 2007,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -444,6 +467,7 @@
 		"artist": "3JS",
 		"title": "Kamers Van M'n Hart",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -460,6 +484,7 @@
 		"artist": "3JS",
 		"title": "Dromers en Dwazen",
 		"year": 2010,
+		"originalYear": 2010,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -476,6 +501,7 @@
 		"artist": "3JS",
 		"title": "4 Elementen",
 		"year": 2012,
+		"originalYear": 2012,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -493,6 +519,7 @@
 		"artist": "Dream Theater",
 		"title": "Images And Words",
 		"year": null,
+		"originalYear": 1992,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -512,6 +539,7 @@
 		"artist": "Mnozil Brass",
 		"title": "Wenn Der Kaiser Grooved",
 		"year": 1998,
+		"originalYear": 1998,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -531,6 +559,7 @@
 		"artist": "Seasick Steve",
 		"title": "Man From Another Time",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -553,6 +582,7 @@
 		"artist": "Dream Theater",
 		"title": "Octavarium",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -572,6 +602,7 @@
 		"artist": "The Blues Brothers",
 		"title": "The Definitive Blues Brothers Collection",
 		"year": null,
+		"originalYear": 1998,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -593,6 +624,7 @@
 		"artist": "Dream Theater",
 		"title": "Greatest Hit (...And 21 Other Pretty Cool Songs)",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -612,6 +644,7 @@
 		"artist": "Crosby, Stills & Nash",
 		"title": "Greatest Hits",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -631,6 +664,7 @@
 		"artist": "Ruben Hein",
 		"title": "Groundwork Rising",
 		"year": 2018,
+		"originalYear": 2018,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -647,6 +681,7 @@
 		"artist": "Ruben Hein",
 		"title": "Loose Fit",
 		"year": 2010,
+		"originalYear": 2010,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -663,6 +698,7 @@
 		"artist": "Ruben Hein",
 		"title": "Loose Fit",
 		"year": 2010,
+		"originalYear": 2010,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -679,6 +715,7 @@
 		"artist": "Höllenboer",
 		"title": "Het Busje Komt Zo",
 		"year": 1995,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -699,6 +736,7 @@
 		"artist": "Bill Withers",
 		"title": "Lean On Me (The Collection)",
 		"year": 2010,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -715,6 +753,7 @@
 		"artist": "Rondò Veneziano",
 		"title": "The Very Best Of Rondo Veneziano",
 		"year": 2016,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -733,6 +772,7 @@
 		"artist": "Glen Hansard, Marketa Irglova",
 		"title": "Once (Music From The Motion Picture)",
 		"year": 2007,
+		"originalYear": 2007,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -755,6 +795,7 @@
 		"artist": "Little River Band",
 		"title": "Greatest Hits",
 		"year": 2000,
+		"originalYear": 1982,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -778,6 +819,7 @@
 		"artist": "The Beach Boys",
 		"title": "Pet Sounds",
 		"year": 2000,
+		"originalYear": 1966,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -798,6 +840,7 @@
 		"artist": "The Beach Boys",
 		"title": "The Very Best Of The Beach Boys",
 		"year": null,
+		"originalYear": 2001,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -815,6 +858,7 @@
 		"artist": "Chicago (2)",
 		"title": "Chicago Transit Authority",
 		"year": null,
+		"originalYear": 1969,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -837,6 +881,7 @@
 		"artist": "Steeleye Span",
 		"title": "All Around My Hat",
 		"year": 1975,
+		"originalYear": 1975,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -855,6 +900,7 @@
 		"artist": "The Proclaimers",
 		"title": "The Best Of...",
 		"year": null,
+		"originalYear": 2002,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -874,6 +920,7 @@
 		"artist": "Various",
 		"title": "Ruud's Hakkúh Hits",
 		"year": 2011,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -894,6 +941,7 @@
 		"artist": "Herman Finkers",
 		"title": "Drie Liedjes Uit Van Jonge Leu En Oale Groond",
 		"year": 2005,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -911,6 +959,7 @@
 		"artist": "Earth, Wind & Fire",
 		"title": "Let's Groove – The Best Of Earth, Wind & Fire",
 		"year": null,
+		"originalYear": 1997,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -931,6 +980,7 @@
 		"artist": "Toto",
 		"title": "The Essential Toto",
 		"year": 2004,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -952,6 +1002,7 @@
 		"artist": "Billy Joel",
 		"title": "Piano Man - The Very Best Of Billy Joel",
 		"year": 2006,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -976,6 +1027,7 @@
 		"artist": "Daft Punk",
 		"title": "Random Access Memories",
 		"year": 2013,
+		"originalYear": 2013,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -999,6 +1051,7 @@
 		"artist": "The Clash",
 		"title": "London Calling",
 		"year": 1999,
+		"originalYear": 1979,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1017,6 +1070,7 @@
 		"artist": "Bruce Springsteen",
 		"title": "Greatest Hits",
 		"year": 1995,
+		"originalYear": 1995,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -1036,6 +1090,7 @@
 		"artist": "Boogie Monster (2)",
 		"title": "Overnight",
 		"year": 2021,
+		"originalYear": 2021,
 		"format": "Vinyl",
 		"type": "EP",
 		"genres": [
@@ -1052,6 +1107,7 @@
 		"artist": "Tom Jones",
 		"title": "The Best Of... Tom Jones",
 		"year": null,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -1070,6 +1126,7 @@
 		"artist": "Gerry Rafferty",
 		"title": "Baker Street",
 		"year": 1999,
+		"originalYear": 1997,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -1088,6 +1145,7 @@
 		"artist": "Höllenboer",
 		"title": "Mu'j Goed Kiek'n Wa'k Zeg",
 		"year": null,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1104,6 +1162,7 @@
 		"artist": "Queen",
 		"title": "Rock Montreal & Live Aid",
 		"year": 2007,
+		"originalYear": 2007,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -1123,6 +1182,7 @@
 		"artist": "Dream Theater",
 		"title": "Falling Into Infinity",
 		"year": 1997,
+		"originalYear": 1997,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1142,6 +1202,7 @@
 		"artist": "Dream Theater",
 		"title": "Awake",
 		"year": 1994,
+		"originalYear": 1994,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1160,6 +1221,7 @@
 		"artist": "Dream Theater",
 		"title": "A Change Of Seasons",
 		"year": 1995,
+		"originalYear": 1995,
 		"format": "CD",
 		"type": "EP",
 		"genres": [
@@ -1180,6 +1242,7 @@
 		"artist": "Muse",
 		"title": "Absolution",
 		"year": 2003,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1198,6 +1261,7 @@
 		"artist": "Muse",
 		"title": "Origin Of Symmetry",
 		"year": 2003,
+		"originalYear": 2001,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1216,6 +1280,7 @@
 		"artist": "Morcheeba",
 		"title": "The Antidote",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1236,6 +1301,7 @@
 		"artist": "Dream Theater",
 		"title": "Metropolis Pt. 2: Scenes From A Memory",
 		"year": null,
+		"originalYear": 1999,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1255,6 +1321,7 @@
 		"artist": "Dream Theater",
 		"title": "Six Degrees Of Inner Turbulence",
 		"year": 2002,
+		"originalYear": 2002,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1274,6 +1341,7 @@
 		"artist": "Dream Theater",
 		"title": "Train Of Thought",
 		"year": 2003,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1293,6 +1361,7 @@
 		"artist": "The Doors",
 		"title": "The Very Best Of The Doors",
 		"year": 2007,
+		"originalYear": 2007,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -1312,6 +1381,7 @@
 		"artist": "The Doors",
 		"title": "Morrison Hotel",
 		"year": 2007,
+		"originalYear": 1970,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1331,6 +1401,7 @@
 		"artist": "Queen, David Bowie",
 		"title": "Under Pressure",
 		"year": 1981,
+		"originalYear": 1981,
 		"format": "Vinyl",
 		"type": "Single",
 		"genres": [
@@ -1349,6 +1420,7 @@
 		"artist": "Queen",
 		"title": "Crazy Little Thing Called Love",
 		"year": 1979,
+		"originalYear": 1979,
 		"format": "Vinyl",
 		"type": "Single",
 		"genres": [
@@ -1367,6 +1439,7 @@
 		"artist": "Queen",
 		"title": "Save Me",
 		"year": 1980,
+		"originalYear": 1980,
 		"format": "Vinyl",
 		"type": "Single",
 		"genres": [
@@ -1386,6 +1459,7 @@
 		"artist": "Queen",
 		"title": "Flash",
 		"year": 1980,
+		"originalYear": 1980,
 		"format": "Vinyl",
 		"type": "Single",
 		"genres": [
@@ -1407,6 +1481,7 @@
 		"artist": "Queen",
 		"title": "A Kind Of Magic ",
 		"year": 1986,
+		"originalYear": 1986,
 		"format": "Vinyl",
 		"type": "Single",
 		"genres": [
@@ -1427,6 +1502,7 @@
 		"artist": "Queen",
 		"title": "Radio Ga Ga",
 		"year": 1984,
+		"originalYear": 1984,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -1449,6 +1525,7 @@
 		"artist": "Iron Maiden",
 		"title": "Somewhere Back In Time (The Best Of: 1980-1989)",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -1467,6 +1544,7 @@
 		"artist": "Ruben Hein",
 		"title": "Hopscotch",
 		"year": 2013,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1486,6 +1564,7 @@
 		"artist": "Ruben Hein",
 		"title": "Elephants",
 		"year": 2010,
+		"originalYear": 2010,
 		"format": "Vinyl",
 		"type": "Single",
 		"genres": [
@@ -1502,6 +1581,7 @@
 		"artist": "Queen",
 		"title": "Don't Stop Me Now",
 		"year": 1979,
+		"originalYear": 1979,
 		"format": "Vinyl",
 		"type": "Single",
 		"genres": [
@@ -1521,6 +1601,7 @@
 		"artist": "Iron Maiden",
 		"title": "Brave New World",
 		"year": null,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1539,6 +1620,7 @@
 		"artist": "Queen",
 		"title": "A Day At The Races",
 		"year": 1986,
+		"originalYear": 1976,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1559,6 +1641,7 @@
 		"artist": "Queen",
 		"title": "A Kind Of Magic",
 		"year": 1986,
+		"originalYear": 1986,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1578,6 +1661,7 @@
 		"artist": "Queen",
 		"title": "Live Magic",
 		"year": null,
+		"originalYear": 1986,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1597,6 +1681,7 @@
 		"artist": "Various",
 		"title": "Radio 2 Top 2000",
 		"year": 2003,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -1617,6 +1702,7 @@
 		"artist": "Steeleye Span",
 		"title": "All Around My Hat",
 		"year": null,
+		"originalYear": 1975,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1636,6 +1722,7 @@
 		"artist": "The Animals",
 		"title": "The Most Of The Animals",
 		"year": 2002,
+		"originalYear": 1971,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -1655,6 +1742,7 @@
 		"artist": "Ruben Hein, Ernst Glerum, Joost Patocka",
 		"title": "Revisited",
 		"year": 2012,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Mini-Album",
 		"genres": [
@@ -1671,6 +1759,7 @@
 		"artist": "Ruben Hein, Metropole Orchestra, Jules Buckley",
 		"title": "Live (At The Royal Theatre Carré)",
 		"year": 2011,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1687,6 +1776,7 @@
 		"artist": "Queen",
 		"title": "Live Killers",
 		"year": 1979,
+		"originalYear": 1979,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -1707,6 +1797,7 @@
 		"artist": "Queen",
 		"title": "One Vision",
 		"year": 1985,
+		"originalYear": 1985,
 		"format": "Vinyl",
 		"type": "Single",
 		"genres": [
@@ -1725,6 +1816,7 @@
 		"artist": "Queen",
 		"title": "Pain Is So Close To Pleasure",
 		"year": 1986,
+		"originalYear": 1986,
 		"format": "Vinyl",
 		"type": "Single",
 		"genres": [
@@ -1743,6 +1835,7 @@
 		"artist": "Queen",
 		"title": "I Want To Break Free",
 		"year": 1984,
+		"originalYear": 1984,
 		"format": "Vinyl",
 		"type": "Single",
 		"genres": [
@@ -1764,6 +1857,7 @@
 		"artist": "Queen",
 		"title": "Live Magic",
 		"year": 1986,
+		"originalYear": 1986,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -1782,6 +1876,7 @@
 		"artist": "Joe Satriani",
 		"title": "Surfing With The Alien",
 		"year": 1999,
+		"originalYear": 1987,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1802,6 +1897,7 @@
 		"artist": "Steve Vai",
 		"title": "Passion And Warfare",
 		"year": 1997,
+		"originalYear": 1990,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1821,6 +1917,7 @@
 		"artist": "Pearl Jam",
 		"title": "Ten",
 		"year": null,
+		"originalYear": 1991,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1840,6 +1937,7 @@
 		"artist": "Gloria Estefan",
 		"title": "The Essential Gloria Estefan",
 		"year": 2006,
+		"originalYear": 2006,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -1860,6 +1958,7 @@
 		"artist": "Michael Jackson",
 		"title": "The Essential Michael Jackson",
 		"year": 2010,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -1883,6 +1982,7 @@
 		"artist": "Electric Light Orchestra",
 		"title": "All Over The World - The Very Best Of Electric Light Orchestra",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -1901,6 +2001,7 @@
 		"artist": "Daniël Lohues",
 		"title": "Aosem",
 		"year": 2016,
+		"originalYear": 2016,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -1920,6 +2021,7 @@
 		"artist": "Daniël Lohues",
 		"title": "Moi",
 		"year": 2017,
+		"originalYear": 2017,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -1937,6 +2039,7 @@
 		"artist": "Jacco Gardner",
 		"title": "Cabinet Of Curiosities",
 		"year": 2013,
+		"originalYear": 2013,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -1956,6 +2059,7 @@
 		"artist": "Jacco Gardner",
 		"title": "Cabinet Of Curiosities",
 		"year": 2013,
+		"originalYear": 2013,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -1974,6 +2078,7 @@
 		"artist": "Creedence Clearwater Revival",
 		"title": "Masters Of Rock",
 		"year": 1975,
+		"originalYear": 1975,
 		"format": "Vinyl",
 		"type": "Compilation",
 		"genres": [
@@ -1993,6 +2098,7 @@
 		"artist": "Creedence Clearwater Revival",
 		"title": "Best Of",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -2012,6 +2118,7 @@
 		"artist": "Mad Caddies",
 		"title": "Duck And Cover",
 		"year": 2014,
+		"originalYear": 1998,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2031,6 +2138,7 @@
 		"artist": "Mad Caddies",
 		"title": "Rock The Plank",
 		"year": 2001,
+		"originalYear": 2001,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2051,6 +2159,7 @@
 		"artist": "Snow Patrol",
 		"title": "Up To Now",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -2071,6 +2180,7 @@
 		"artist": "Ilse DeLange",
 		"title": "Next To Me",
 		"year": 2010,
+		"originalYear": 2010,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2092,6 +2202,7 @@
 		"artist": "Magnify",
 		"title": "Sing",
 		"year": 2009,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2108,6 +2219,7 @@
 		"artist": "Mnozil Brass",
 		"title": "Smoke Live",
 		"year": 2002,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2126,6 +2238,7 @@
 		"artist": "Mnozil Brass",
 		"title": "Ragazzi",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2145,6 +2258,7 @@
 		"artist": "Mnozil Brass",
 		"title": "What Are You Doing The Rest Of Your Life",
 		"year": 2009,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2164,6 +2278,7 @@
 		"artist": "Guns N' Roses",
 		"title": "Greatest Hits",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -2182,6 +2297,7 @@
 		"artist": "Guns N' Roses",
 		"title": "Use Your Illusion I",
 		"year": 1991,
+		"originalYear": 1991,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2201,6 +2317,7 @@
 		"artist": "Guns N' Roses",
 		"title": "Use Your Illusion II",
 		"year": null,
+		"originalYear": 1991,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2221,6 +2338,7 @@
 		"artist": "Jaya The Cat",
 		"title": "Basement Style",
 		"year": 2001,
+		"originalYear": 2001,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2241,6 +2359,7 @@
 		"artist": "Caro Emerald",
 		"title": "Deleted Scenes From The Cutting Room Floor",
 		"year": 2010,
+		"originalYear": 2010,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2264,6 +2383,7 @@
 		"artist": "Caro Emerald, Grandmono Orchestra",
 		"title": "Live In Concert At The Heineken Music Hall",
 		"year": 2011,
+		"originalYear": 2011,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -2287,6 +2407,7 @@
 		"artist": "Caro Emerald",
 		"title": "The Shocking Miss Emerald",
 		"year": 2013,
+		"originalYear": 2013,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2312,6 +2433,7 @@
 		"artist": "Daniël Lohues",
 		"title": "Allennig",
 		"year": 2006,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2331,6 +2453,7 @@
 		"artist": "Lohues & The Louisiana Blues Club",
 		"title": "Grip",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2349,6 +2472,7 @@
 		"artist": "Daniël Lohues",
 		"title": "Allennig II",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2368,6 +2492,7 @@
 		"artist": "Daniël Lohues",
 		"title": "Allennig III",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2387,6 +2512,7 @@
 		"artist": "Daniël Lohues",
 		"title": "Allennig IV",
 		"year": 2010,
+		"originalYear": 2010,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2404,6 +2530,7 @@
 		"artist": "Daniël Lohues",
 		"title": "Hout Moet",
 		"year": 2011,
+		"originalYear": 2011,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2423,6 +2550,7 @@
 		"artist": "Daniël Lohues",
 		"title": "Gunder",
 		"year": 2012,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2442,6 +2570,7 @@
 		"artist": "Daniël Lohues",
 		"title": "Ericana",
 		"year": 2013,
+		"originalYear": 2013,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2461,6 +2590,7 @@
 		"artist": "Herman van Veen",
 		"title": "(De Zaal Is Er) Carré V",
 		"year": null,
+		"originalYear": 1987,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2481,6 +2611,7 @@
 		"artist": "Herman van Veen",
 		"title": "Rode Wangen - In Vogelvlucht Voor Kinderen (20 Jaar Kinderliedjes)",
 		"year": null,
+		"originalYear": 1989,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -2499,6 +2630,7 @@
 		"artist": "Paul McCartney",
 		"title": "Good Evening New York City",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2521,6 +2653,7 @@
 		"artist": "Dropkick Murphys",
 		"title": "The Warrior's Code",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2540,6 +2673,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Blieve Loepe",
 		"year": null,
+		"originalYear": 1990,
 		"format": "CD",
 		"type": "Mini-Album",
 		"genres": [
@@ -2560,6 +2694,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Station America",
 		"year": null,
+		"originalYear": 1993,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2580,6 +2715,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Zondag In 't Zuiden",
 		"year": null,
+		"originalYear": 1995,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2600,6 +2736,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Water, Lucht En Liefde",
 		"year": 1997,
+		"originalYear": 1997,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2620,6 +2757,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Vandaag",
 		"year": 2000,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2640,6 +2778,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Geal",
 		"year": 2012,
+		"originalYear": 2012,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2656,6 +2795,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Dageraad",
 		"year": 2003,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2675,6 +2815,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Boem",
 		"year": null,
+		"originalYear": 1991,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2695,6 +2836,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "In De Wei (Live)",
 		"year": 1992,
+		"originalYear": 1992,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2715,6 +2857,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "'t Beste Van 2 Werelden",
 		"year": 1999,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -2735,6 +2878,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Manne Van Staal",
 		"year": 2011,
+		"originalYear": 2011,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2754,6 +2898,7 @@
 		"artist": "Mnozil Brass",
 		"title": "Zimt",
 		"year": 2000,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2770,6 +2915,7 @@
 		"artist": "Mnozil Brass",
 		"title": "Dasselbe In Grün",
 		"year": 2000,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2790,6 +2936,7 @@
 		"artist": "Mnozil Brass",
 		"title": "Almrausch",
 		"year": 2009,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2809,6 +2956,7 @@
 		"artist": "Freddie Mercury",
 		"title": "The Very Best Of Freddie Mercury Solo",
 		"year": 2006,
+		"originalYear": 2006,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -2830,6 +2978,7 @@
 		"artist": "Dragonforce",
 		"title": "Inhuman Rampage",
 		"year": 2006,
+		"originalYear": 2006,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2848,6 +2997,7 @@
 		"artist": "Queen",
 		"title": "Rock You From Rio - Live",
 		"year": 2009,
+		"originalYear": 1985,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2867,6 +3017,7 @@
 		"artist": "Ayreon",
 		"title": "Into The Electric Castle (A Space Opera)",
 		"year": 2004,
+		"originalYear": 1998,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2888,6 +3039,7 @@
 		"artist": "Bigelf",
 		"title": "Into The Maelstrom",
 		"year": 2014,
+		"originalYear": 2014,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2907,6 +3059,7 @@
 		"artist": "Ayreon",
 		"title": "The Human Equation",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2926,6 +3079,7 @@
 		"artist": "Queens Of The Stone Age",
 		"title": "Songs For The Deaf",
 		"year": null,
+		"originalYear": 2002,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2944,6 +3098,7 @@
 		"artist": "Jonathan Jeremiah",
 		"title": "A Solitary Man",
 		"year": 2011,
+		"originalYear": 2011,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2961,6 +3116,7 @@
 		"artist": "Amy Winehouse",
 		"title": "Frank",
 		"year": 2004,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2981,6 +3137,7 @@
 		"artist": "Kyteman",
 		"title": "The Hermit Sessions",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -2999,6 +3156,7 @@
 		"artist": "Slavko Avsenik Und Seine Original Oberkrainer",
 		"title": "Gold",
 		"year": 1993,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3017,6 +3175,7 @@
 		"artist": "Ernst Mosch Und Seine Original Egerländer Musikanten",
 		"title": "Wenn Unsere Musikanten Spielen",
 		"year": null,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3035,6 +3194,7 @@
 		"artist": "Ernst Mosch Und Seine Original Egerländer Musikanten",
 		"title": "Mein Schönes Heimatland",
 		"year": 2002,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3056,6 +3216,7 @@
 		"artist": "Slavko Avsenik Und Seine Original Oberkrainer",
 		"title": "Polkafest In Oberkrain",
 		"year": 1997,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3074,6 +3235,7 @@
 		"artist": "Die Zillertaler",
 		"title": "Zillertaler Hochzeitsmarsch",
 		"year": 2005,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3092,6 +3254,7 @@
 		"artist": "Vlado Kumpan und seine Musikanten",
 		"title": "Ein schöner Traum",
 		"year": 2007,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3112,6 +3275,7 @@
 		"artist": "The Kyteman Orchestra",
 		"title": "The Kyteman Orchestra",
 		"year": 2012,
+		"originalYear": 2012,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3135,6 +3299,7 @@
 		"artist": "Porcupine Tree",
 		"title": "In Absentia",
 		"year": null,
+		"originalYear": 2002,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3154,6 +3319,7 @@
 		"artist": "Porcupine Tree",
 		"title": "Deadwing",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3173,6 +3339,7 @@
 		"artist": "Global.Kryner",
 		"title": "Global.Kryner",
 		"year": 2004,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3194,6 +3361,7 @@
 		"artist": "Global.Kryner",
 		"title": "Krynology",
 		"year": 2005,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3217,6 +3385,7 @@
 		"artist": "Global.Kryner",
 		"title": "Weg",
 		"year": 2007,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3233,6 +3402,7 @@
 		"artist": "Gerry Rafferty",
 		"title": "Sleepwalking",
 		"year": 1982,
+		"originalYear": 1982,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -3251,6 +3421,7 @@
 		"artist": "Ghost (32)",
 		"title": "Meliora",
 		"year": 2016,
+		"originalYear": 2015,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -3270,6 +3441,7 @@
 		"artist": "Mike Portnoy",
 		"title": "Prime Cuts (From Mike Portnoy's Magna Carta Sessions)",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3289,6 +3461,7 @@
 		"artist": "Celtic Woman",
 		"title": "A New Journey",
 		"year": 2007,
+		"originalYear": 2007,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3309,6 +3482,7 @@
 		"artist": "Guilt Machine",
 		"title": "On This Perfect Day",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3328,6 +3502,7 @@
 		"artist": "George Martin",
 		"title": "In My Life",
 		"year": 1998,
+		"originalYear": 1998,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3347,6 +3522,7 @@
 		"artist": "Boney M.",
 		"title": "Rivers Of Babylon: Presenting... Boney M.",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3365,6 +3541,7 @@
 		"artist": "Creedence Clearwater Revival, John Fogerty",
 		"title": "Travellin' Band",
 		"year": 2007,
+		"originalYear": 2005,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -3384,6 +3561,7 @@
 		"artist": "Dream Theater",
 		"title": "When Dream And Day Unite",
 		"year": null,
+		"originalYear": 1989,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3403,6 +3581,7 @@
 		"artist": "Ekseption",
 		"title": "The Universal Masters Collection",
 		"year": 2003,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3425,6 +3604,7 @@
 		"artist": "Mark Knopfler",
 		"title": "Sailing To Philadelphia",
 		"year": null,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3445,6 +3625,7 @@
 		"artist": "Boudewijn De Groot",
 		"title": "Het Beste Van Boudewijn De Groot",
 		"year": null,
+		"originalYear": 1990,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3465,6 +3646,7 @@
 		"artist": "Queen",
 		"title": "Pre Ordained",
 		"year": 1996,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3483,6 +3665,7 @@
 		"artist": "Wings (2)",
 		"title": "Band On The Run",
 		"year": 2010,
+		"originalYear": 1973,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3501,6 +3684,7 @@
 		"artist": "Otis Redding",
 		"title": "Soul Legend (The Very Best Of Otis Redding)",
 		"year": 2011,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3519,6 +3703,7 @@
 		"artist": "The Gentle Storm",
 		"title": "The Diary",
 		"year": 2023,
+		"originalYear": 2015,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -3535,10 +3720,53 @@
 		"dateAdded": "2026-01-01T05:21:04-08:00"
 	},
 	{
+		"releaseId": 37528698,
+		"artist": "Ayreon",
+		"title": "30th Anniversary - An Amazing Flight Through Time",
+		"year": 2026,
+		"originalYear": 2026,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Progressive Metal",
+			"Prog Rock",
+			"Symphonic Metal"
+		],
+		"cover": "/img/discogs/37528698.jpg",
+		"discogsUrl": "https://www.discogs.com/release/37528698",
+		"featured": false,
+		"dateAdded": "2026-07-26T13:18:20-07:00"
+	},
+	{
+		"releaseId": 14986810,
+		"artist": "Ayreon",
+		"title": "Electric Castle Live And Other Tales",
+		"year": 2020,
+		"originalYear": 2020,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Progressive Metal",
+			"Prog Rock",
+			"Folk Rock"
+		],
+		"cover": "/img/discogs/14986810.jpg",
+		"discogsUrl": "https://www.discogs.com/release/14986810",
+		"featured": false,
+		"dateAdded": "2026-07-26T13:20:10-07:00"
+	},
+	{
 		"releaseId": 11761027,
 		"artist": "Ayreon",
 		"title": "Best Of Ayreon Live",
 		"year": 2018,
+		"originalYear": 2018,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3558,6 +3786,7 @@
 		"artist": "Ernst Mosch Und Seine Original Egerländer Musikanten",
 		"title": "50 große erfolge",
 		"year": 2012,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3576,6 +3805,7 @@
 		"artist": "DJ Tiësto",
 		"title": "Elements Of Life",
 		"year": 2008,
+		"originalYear": 2007,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3595,6 +3825,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "In De Tent - Live In America",
 		"year": 2004,
+		"originalYear": null,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -3611,6 +3842,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Andere Wind",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3630,6 +3862,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "D.A.D.P.G.S. - In Het Theater",
 		"year": 2003,
+		"originalYear": null,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -3648,6 +3881,7 @@
 		"artist": "Dragonforce",
 		"title": "Sonic Firestorm",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3666,6 +3900,7 @@
 		"artist": "Ian Siegal",
 		"title": "Meat & Potatoes",
 		"year": 2005,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3685,6 +3920,7 @@
 		"artist": "Gerry Mulligan, Chet Baker",
 		"title": "The Best Of The Gerry Mulligan Quartet With Chet Baker",
 		"year": null,
+		"originalYear": 1991,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3703,6 +3939,7 @@
 		"artist": "Queen",
 		"title": "A Night At The Opera",
 		"year": 2005,
+		"originalYear": 1975,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3722,6 +3959,7 @@
 		"artist": "George Michael, Queen, Lisa Stansfield",
 		"title": "Five Live",
 		"year": 1993,
+		"originalYear": 1993,
 		"format": "CD",
 		"type": "EP",
 		"genres": [
@@ -3742,6 +3980,7 @@
 		"artist": "Queen",
 		"title": "Flash Gordon (Original Soundtrack Music)",
 		"year": 1994,
+		"originalYear": 1980,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3762,6 +4001,7 @@
 		"artist": "Queen, Various",
 		"title": "At The Freddie Mercury Tribute Concert - Special 10th Anniversary Edition",
 		"year": 2002,
+		"originalYear": 1992,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -3780,6 +4020,7 @@
 		"artist": "David Bowie",
 		"title": "Best Of Bowie",
 		"year": 2014,
+		"originalYear": 2002,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3801,6 +4042,7 @@
 		"artist": "Gorillaz",
 		"title": "Gorillaz",
 		"year": null,
+		"originalYear": 2001,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3830,6 +4072,7 @@
 		"artist": "John Lennon",
 		"title": "Lennon Legend (The Very Best Of John Lennon)",
 		"year": 1997,
+		"originalYear": 1997,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -3849,6 +4092,7 @@
 		"artist": "Queen",
 		"title": "Heaven For Everyone",
 		"year": 1995,
+		"originalYear": 1995,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3867,6 +4111,7 @@
 		"artist": "Queen",
 		"title": "No-One But You (Only The Good Die Young)",
 		"year": 1997,
+		"originalYear": 1997,
 		"format": "CD",
 		"type": "Single",
 		"genres": [
@@ -3885,6 +4130,7 @@
 		"artist": "Pink Floyd",
 		"title": "Wish You Were Here",
 		"year": null,
+		"originalYear": 1975,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3904,6 +4150,7 @@
 		"artist": "Queen",
 		"title": "Queen Rocks",
 		"year": null,
+		"originalYear": 1997,
 		"format": "Vinyl",
 		"type": "Compilation",
 		"genres": [
@@ -3922,6 +4169,7 @@
 		"artist": "The Beatles",
 		"title": "Beatles For Sale",
 		"year": 2009,
+		"originalYear": 1964,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3942,6 +4190,7 @@
 		"artist": "The Beatles",
 		"title": "With The Beatles",
 		"year": null,
+		"originalYear": 1963,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -3962,6 +4211,7 @@
 		"artist": "The Beatles",
 		"title": "Sgt. Pepper's Lonely Hearts Club Band",
 		"year": 2021,
+		"originalYear": 1967,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -3982,6 +4232,7 @@
 		"artist": "Queen, Paul Rodgers",
 		"title": "Return Of The Champions",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -4003,6 +4254,7 @@
 		"artist": "Queen",
 		"title": "A Night At The Opera",
 		"year": 2005,
+		"originalYear": 1975,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4024,6 +4276,7 @@
 		"artist": "Brian May",
 		"title": "Back To The Light",
 		"year": 1992,
+		"originalYear": 1992,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4044,6 +4297,7 @@
 		"artist": "Queen",
 		"title": "Queen II",
 		"year": 1994,
+		"originalYear": 1974,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4063,6 +4317,7 @@
 		"artist": "Queen",
 		"title": "Queen",
 		"year": 1994,
+		"originalYear": 1973,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4082,6 +4337,7 @@
 		"artist": "Queen",
 		"title": "Sheer Heart Attack",
 		"year": null,
+		"originalYear": 1974,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4101,6 +4357,7 @@
 		"artist": "Queen",
 		"title": "News Of The World",
 		"year": 1993,
+		"originalYear": 1977,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4120,6 +4377,7 @@
 		"artist": "Queen",
 		"title": "Jazz",
 		"year": 1994,
+		"originalYear": 1978,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4139,6 +4397,7 @@
 		"artist": "Queen",
 		"title": "The Game",
 		"year": 1994,
+		"originalYear": 1980,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4158,6 +4417,7 @@
 		"artist": "Queen",
 		"title": "Hot Space",
 		"year": 1994,
+		"originalYear": 1982,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4181,6 +4441,7 @@
 		"artist": "Queen",
 		"title": "The Works",
 		"year": 1994,
+		"originalYear": 1984,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4200,6 +4461,7 @@
 		"artist": "Queen",
 		"title": "Live Killers",
 		"year": 1994,
+		"originalYear": 1979,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4220,6 +4482,7 @@
 		"artist": "Queen",
 		"title": "Greatest Hits",
 		"year": 1994,
+		"originalYear": 1981,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -4239,6 +4502,7 @@
 		"artist": "Queen",
 		"title": "Live At Wembley '86",
 		"year": 1992,
+		"originalYear": 1992,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4258,6 +4522,7 @@
 		"artist": "Queen",
 		"title": "Live At Wembley Stadium",
 		"year": 2008,
+		"originalYear": 1992,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -4280,6 +4545,7 @@
 		"artist": "Queen",
 		"title": "Greatest Hits III",
 		"year": 1999,
+		"originalYear": 1999,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -4304,6 +4570,7 @@
 		"artist": "Roger Taylor",
 		"title": "Electric Fire",
 		"year": 1998,
+		"originalYear": 1998,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4322,6 +4589,7 @@
 		"artist": "Queen",
 		"title": "Queen Rocks",
 		"year": 1997,
+		"originalYear": 1997,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -4341,6 +4609,7 @@
 		"artist": "Roger Taylor",
 		"title": "Happiness ?",
 		"year": 1994,
+		"originalYear": 1994,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4359,6 +4628,7 @@
 		"artist": "Queen",
 		"title": "Made In Heaven",
 		"year": 1995,
+		"originalYear": 1995,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4378,6 +4648,7 @@
 		"artist": "Roger Taylor",
 		"title": "Roger Taylor's Fun In Space",
 		"year": 1996,
+		"originalYear": 1981,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4397,6 +4668,7 @@
 		"artist": "Roger Taylor",
 		"title": "Strange Frontier",
 		"year": 1996,
+		"originalYear": 1984,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4415,6 +4687,7 @@
 		"artist": "Queen",
 		"title": "The Miracle",
 		"year": 1989,
+		"originalYear": 1989,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4435,6 +4708,7 @@
 		"artist": "Queen",
 		"title": "Innuendo",
 		"year": null,
+		"originalYear": 1991,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4453,6 +4727,7 @@
 		"artist": "Queen",
 		"title": "Greatest Hits II",
 		"year": null,
+		"originalYear": 1991,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -4473,6 +4748,7 @@
 		"artist": "Gorillaz",
 		"title": "Demon Days",
 		"year": null,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4497,6 +4773,7 @@
 		"artist": "Queen",
 		"title": "Queen On Fire (Live At The Bowl)",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -4521,6 +4798,7 @@
 		"artist": "Queen",
 		"title": "Queen On Fire (Live At The Bowl)",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4539,6 +4817,7 @@
 		"artist": "Daft Punk",
 		"title": "Discovery",
 		"year": null,
+		"originalYear": 2001,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4559,6 +4838,7 @@
 		"artist": "Pet Shop Boys",
 		"title": "Discography (The Complete Singles Collection)",
 		"year": null,
+		"originalYear": 1991,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -4578,6 +4858,7 @@
 		"artist": "Queen",
 		"title": "Greatest Video Hits 2",
 		"year": 2003,
+		"originalYear": 2003,
 		"format": "DVD",
 		"type": "Compilation",
 		"genres": [
@@ -4600,6 +4881,7 @@
 		"artist": "Queen",
 		"title": "Greatest Video Hits 1",
 		"year": 2002,
+		"originalYear": 2002,
 		"format": "DVD",
 		"type": "Compilation",
 		"genres": [
@@ -4623,6 +4905,7 @@
 		"artist": "David Bowie",
 		"title": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
 		"year": 2016,
+		"originalYear": 1972,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -4642,6 +4925,7 @@
 		"artist": "Herberg De Troost",
 		"title": "Langs De Weg",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4659,6 +4943,7 @@
 		"artist": "Moke (2), Metropole Orchestra, Jules Buckley",
 		"title": "Moke + Metropole Orkest",
 		"year": 2010,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4678,6 +4963,7 @@
 		"artist": "Racoon (4)",
 		"title": "Liverpool Rain",
 		"year": 2011,
+		"originalYear": 2011,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4696,6 +4982,7 @@
 		"artist": "De Sjonnies",
 		"title": "Krenten Uit De Pap",
 		"year": 2002,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4712,6 +4999,7 @@
 		"artist": "Smith & Burrows",
 		"title": "Funny Looking Angels",
 		"year": 2011,
+		"originalYear": 2011,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4731,6 +5019,7 @@
 		"artist": "Seasick Steve",
 		"title": "You Can't Teach An Old Dog New Tricks",
 		"year": 2011,
+		"originalYear": 2011,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4750,6 +5039,7 @@
 		"artist": "The Pogues",
 		"title": "The Very Best Of ...",
 		"year": 2001,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -4769,6 +5059,7 @@
 		"artist": "Herman van Veen",
 		"title": "Live In Carré 2000",
 		"year": 2001,
+		"originalYear": 2001,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4789,6 +5080,7 @@
 		"artist": "The Who",
 		"title": "Then And Now",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -4810,6 +5102,7 @@
 		"artist": "Herman van Veen",
 		"title": "Er Was Eens... - Herman van Veen Zingt En Vertelt Een Kerstverhaal",
 		"year": null,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4828,6 +5121,7 @@
 		"artist": "Herman van Veen",
 		"title": "Andere Namen",
 		"year": 2002,
+		"originalYear": 2002,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4844,6 +5138,7 @@
 		"artist": "Bigelf",
 		"title": "Cheat The Gallows",
 		"year": 2009,
+		"originalYear": 2008,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4866,6 +5161,7 @@
 		"artist": "Bigelf",
 		"title": "Hex",
 		"year": 2010,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4885,6 +5181,7 @@
 		"artist": "Bigelf",
 		"title": "Closer To Doom",
 		"year": 2010,
+		"originalYear": 1996,
 		"format": "CD",
 		"type": "EP",
 		"genres": [
@@ -4905,6 +5202,7 @@
 		"artist": "Bigelf",
 		"title": "Money Machine",
 		"year": 2010,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4923,6 +5221,7 @@
 		"artist": "The Canadian Brass",
 		"title": "All You Need Is Love",
 		"year": 1998,
+		"originalYear": 1998,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -4945,6 +5244,7 @@
 		"artist": "Bee Gees",
 		"title": "Number Ones",
 		"year": 2011,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -4968,6 +5268,7 @@
 		"artist": "Enya",
 		"title": "Paint The Sky With Stars - The Best Of Enya",
 		"year": 2004,
+		"originalYear": 1997,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -4986,6 +5287,7 @@
 		"artist": "Chicago (2)",
 		"title": "Greatest Hits 1982-1989",
 		"year": 2004,
+		"originalYear": 1989,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5005,6 +5307,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Rodus & Lucius",
 		"year": 2006,
+		"originalYear": 2006,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5024,6 +5327,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Saus",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5041,6 +5345,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Zilver",
 		"year": 2010,
+		"originalYear": 2010,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5057,6 +5362,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Droemvlucht",
 		"year": 2007,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Single",
 		"genres": [
@@ -5075,6 +5381,7 @@
 		"artist": "Rowwen Hèze, Limburgs Symfonie Orkest, Venloos Vocaal Ensemble",
 		"title": "Lied Vur Limburg",
 		"year": 2007,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Single",
 		"genres": [
@@ -5093,6 +5400,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Nar Boave",
 		"year": 2008,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Single",
 		"genres": [
@@ -5111,6 +5419,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Vur Altied Is Vurbeej",
 		"year": 2008,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Single",
 		"genres": [
@@ -5129,6 +5438,7 @@
 		"artist": "Rowwen Hèze",
 		"title": "Saus",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -5146,6 +5456,7 @@
 		"artist": "Chicago (2)",
 		"title": "Chicago IX Greatest Hits Vol 1",
 		"year": 2005,
+		"originalYear": 1975,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5164,6 +5475,7 @@
 		"artist": "Eagles",
 		"title": "The Complete Greatest Hits",
 		"year": 2008,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5183,6 +5495,7 @@
 		"artist": "Chicago (2)",
 		"title": "Chicago IX - Chicago's Greatest Hits",
 		"year": 2012,
+		"originalYear": 1975,
 		"format": "Vinyl",
 		"type": "Compilation",
 		"genres": [
@@ -5202,6 +5515,7 @@
 		"artist": "Chicago (2)",
 		"title": "Chicago Transit Authority",
 		"year": 2002,
+		"originalYear": 1969,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5225,6 +5539,7 @@
 		"artist": "Jaya The Cat",
 		"title": "Basement Style",
 		"year": 2017,
+		"originalYear": 2001,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -5245,6 +5560,7 @@
 		"artist": "Dream Theater",
 		"title": "Black Clouds & Silver Linings",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5264,6 +5580,7 @@
 		"artist": "Dream Theater",
 		"title": "Chaos In Motion",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -5285,6 +5602,7 @@
 		"artist": "Dream Theater",
 		"title": "Black Clouds & Silver Linings",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5305,6 +5623,7 @@
 		"artist": "Dream Theater",
 		"title": "Systematic Chaos",
 		"year": 2007,
+		"originalYear": 2007,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5324,6 +5643,7 @@
 		"artist": "Delain",
 		"title": "April Rain",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Single",
 		"genres": [
@@ -5342,6 +5662,7 @@
 		"artist": "Dream Theater",
 		"title": "A Dramatic Turn Of Events",
 		"year": 2011,
+		"originalYear": 2011,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5360,6 +5681,7 @@
 		"artist": "Porcupine Tree",
 		"title": "Fear Of A Blank Planet",
 		"year": 2007,
+		"originalYear": 2007,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5378,6 +5700,7 @@
 		"artist": "Flogging Molly",
 		"title": "Drunken Lullabies",
 		"year": null,
+		"originalYear": 2002,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5398,6 +5721,7 @@
 		"artist": "Louis Armstrong",
 		"title": "The Complete Collection",
 		"year": 2007,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5419,6 +5743,7 @@
 		"artist": "Led Zeppelin",
 		"title": "Mothership",
 		"year": 2007,
+		"originalYear": 2007,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5439,6 +5764,7 @@
 		"artist": "Ernst Mosch Und Seine Original Egerländer Musikanten",
 		"title": "Ein Klang Begeistert Die Welt",
 		"year": 1990,
+		"originalYear": 1972,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5461,6 +5787,7 @@
 		"artist": "Benjamin Koppel",
 		"title": "The Benjamin Koppel Jazz Journey #10, The Final Word",
 		"year": 2012,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5477,6 +5804,7 @@
 		"artist": "Typhoon (4)",
 		"title": "Lobi Da Basi",
 		"year": 2014,
+		"originalYear": 2014,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5493,6 +5821,7 @@
 		"artist": "Steven Wilson",
 		"title": "The Raven That Refused To Sing (And Other Stories)",
 		"year": 2023,
+		"originalYear": 2013,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5513,6 +5842,7 @@
 		"artist": "Jurk!",
 		"title": "Avondjurk",
 		"year": 2010,
+		"originalYear": 2010,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5529,6 +5859,7 @@
 		"artist": "Gerry Rafferty",
 		"title": "Snakes And Ladders",
 		"year": 1980,
+		"originalYear": 1980,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -5547,6 +5878,7 @@
 		"artist": "Gerry Rafferty",
 		"title": "City To City",
 		"year": 1978,
+		"originalYear": 1978,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -5566,6 +5898,7 @@
 		"artist": "Cesar Zuiderwijk",
 		"title": "Alle Gekheid Met Een Stokje",
 		"year": 2004,
+		"originalYear": null,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -5582,6 +5915,7 @@
 		"artist": "Herman van Veen",
 		"title": "100",
 		"year": null,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5598,6 +5932,7 @@
 		"artist": "Skik",
 		"title": "Best Tof",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5616,6 +5951,7 @@
 		"artist": "Lohues & The Louisiana Blues Club",
 		"title": "Ja Boeh",
 		"year": null,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5636,6 +5972,7 @@
 		"artist": "Golden Earring",
 		"title": "Tits 'n Ass",
 		"year": 2012,
+		"originalYear": 2012,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5655,6 +5992,7 @@
 		"artist": "Dizzy Man's Band",
 		"title": "The Golden Years Of Dutch Pop Music (A&B Sides And More)",
 		"year": 2015,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5673,6 +6011,7 @@
 		"artist": "Various",
 		"title": "Gerard Ekdom's BBQ Box 2014",
 		"year": 2014,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5700,6 +6039,7 @@
 		"artist": "Dire Straits",
 		"title": "On The Night",
 		"year": 2004,
+		"originalYear": 1993,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -5719,6 +6059,7 @@
 		"artist": "Ilse DeLange",
 		"title": "Incredible",
 		"year": 2008,
+		"originalYear": 2008,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5739,6 +6080,7 @@
 		"artist": "Ilse DeLange",
 		"title": "The Great Escape",
 		"year": 2006,
+		"originalYear": 2006,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5759,6 +6101,7 @@
 		"artist": "Amy Winehouse",
 		"title": "Back To Black",
 		"year": 2006,
+		"originalYear": 2006,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5782,6 +6125,7 @@
 		"artist": "Ruben Hein",
 		"title": "Oceans",
 		"year": 2022,
+		"originalYear": 2022,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -5798,6 +6142,7 @@
 		"artist": "Dire Straits",
 		"title": "On The Night",
 		"year": 1996,
+		"originalYear": 1993,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5816,6 +6161,7 @@
 		"artist": "Dire Straits",
 		"title": "Brothers In Arms",
 		"year": 1996,
+		"originalYear": 1985,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5835,6 +6181,7 @@
 		"artist": "The Cross (3)",
 		"title": "Shove It",
 		"year": null,
+		"originalYear": 1988,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5853,6 +6200,7 @@
 		"artist": "Queen",
 		"title": "Studio Collection",
 		"year": 2015,
+		"originalYear": 2015,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -5870,6 +6218,7 @@
 		"artist": "Queen",
 		"title": "Live At The Rainbow '74",
 		"year": 2014,
+		"originalYear": 2014,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -5888,6 +6237,7 @@
 		"artist": "Genesis",
 		"title": "Live At Wembley Stadium",
 		"year": 2003,
+		"originalYear": 2003,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -5909,6 +6259,7 @@
 		"artist": "Lenny Kravitz",
 		"title": "Greatest Hits",
 		"year": null,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5928,6 +6279,7 @@
 		"artist": "Genesis",
 		"title": "Turn It On Again (The Hits) (The Tour Edition)",
 		"year": 2007,
+		"originalYear": 1999,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -5948,6 +6300,7 @@
 		"artist": "Genesis",
 		"title": "Invisible Touch",
 		"year": 1986,
+		"originalYear": 1986,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -5968,6 +6321,7 @@
 		"artist": "Mark Mancina, Phil Collins",
 		"title": "Brother Bear - An Original Disney Records Soundtrack",
 		"year": 2003,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -5989,6 +6343,7 @@
 		"artist": "Phil Collins, Mark Mancina",
 		"title": "Tarzan (An Original Walt Disney Records Soundtrack)",
 		"year": null,
+		"originalYear": 1999,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -6010,6 +6365,7 @@
 		"artist": "Michael Giacchino",
 		"title": "The Incredibles (An Original Soundtrack)",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -6032,6 +6388,7 @@
 		"artist": "America (2)",
 		"title": "Homecoming",
 		"year": null,
+		"originalYear": 1972,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -6052,6 +6409,7 @@
 		"artist": "Ilse DeLange",
 		"title": "World Of Hurt",
 		"year": 1999,
+		"originalYear": 1998,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -6072,6 +6430,7 @@
 		"artist": "The Doobie Brothers",
 		"title": "Listen To The Music ⋅ The Very Best Of The Doobie Brothers",
 		"year": 1993,
+		"originalYear": 1993,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -6092,6 +6451,7 @@
 		"artist": "Red Hot Chili Peppers",
 		"title": "Greatest Hits",
 		"year": 2006,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -6110,6 +6470,7 @@
 		"artist": "Muse",
 		"title": "The Resistance",
 		"year": 2009,
+		"originalYear": 2009,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -6131,6 +6492,7 @@
 		"artist": "Phil Collins",
 		"title": "Testify",
 		"year": null,
+		"originalYear": 2002,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -6151,6 +6513,7 @@
 		"artist": "Dream Theater",
 		"title": "Score (20th Anniversary World Tour)",
 		"year": 2006,
+		"originalYear": 2006,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -6170,6 +6533,7 @@
 		"artist": "Phil Collins",
 		"title": "Finally... The First Farewell Tour",
 		"year": 2004,
+		"originalYear": 2004,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -6194,6 +6558,7 @@
 		"artist": "Cream (2)",
 		"title": "Royal Albert Hall - London - May 2-3-5-6 05",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "DVD",
 		"type": "Album",
 		"genres": [
@@ -6216,6 +6581,7 @@
 		"artist": "The Pogues",
 		"title": "Dirty Old Town",
 		"year": 2005,
+		"originalYear": 2005,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -6235,6 +6601,7 @@
 		"artist": "Ilse DeLange",
 		"title": "Livin' On Love",
 		"year": 2000,
+		"originalYear": 2000,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -6255,6 +6622,7 @@
 		"artist": "Ilse DeLange",
 		"title": "Clean Up",
 		"year": 2003,
+		"originalYear": 2003,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -6272,6 +6640,7 @@
 		"artist": "Phil Collins",
 		"title": "...Hits",
 		"year": null,
+		"originalYear": 1998,
 		"format": "CD",
 		"type": "Compilation",
 		"genres": [
@@ -6290,6 +6659,7 @@
 		"artist": "Buena Vista Social Club",
 		"title": "Buena Vista Social Club",
 		"year": null,
+		"originalYear": 1997,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -6315,6 +6685,7 @@
 		"artist": "Bert & Ernie",
 		"title": "Maak Er Wat Van!",
 		"year": 1983,
+		"originalYear": 1983,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -6335,6 +6706,7 @@
 		"artist": "Bert & Ernie",
 		"title": "Kerstfeest Met Bert & Ernie",
 		"year": 1984,
+		"originalYear": 1984,
 		"format": "Vinyl",
 		"type": "Album",
 		"genres": [
@@ -6354,6 +6726,7 @@
 		"artist": "The Prodigy",
 		"title": "The Fat Of The Land",
 		"year": 1997,
+		"originalYear": 1997,
 		"format": "CD",
 		"type": "Album",
 		"genres": [
@@ -6374,6 +6747,7 @@
 		"artist": "Vincent Veneman 10",
 		"title": "Vincent Veneman 10",
 		"year": 2017,
+		"originalYear": null,
 		"format": "CD",
 		"type": "Album",
 		"genres": [

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Listens
+title: Record collection
 extraCss: /_includes/listens.css
 extraJs: /_includes/listens.js
 ---
@@ -48,6 +48,21 @@ extraJs: /_includes/listens.js
   </form>
 
   <p>
+    <label>
+      Sort by
+      <select id="listens-sort">
+        <option value="">Default</option>
+        <option value="year-desc">Year (newest first)</option>
+        <option value="year-asc">Year (oldest first)</option>
+        <option value="artist-asc">Artist (A&ndash;Z)</option>
+        <option value="artist-desc">Artist (Z&ndash;A)</option>
+        <option value="plays-desc">Plays (most recent first)</option>
+        <option value="plays-asc">Plays (least recent first)</option>
+      </select>
+    </label>
+  </p>
+
+  <p>
     Showing <span id="listens-count">{{records.length}}</span> of {{records.length}} records.
   </p>
 
@@ -57,15 +72,51 @@ extraJs: /_includes/listens.js
       data-format="{{ record.format }}"
       data-type="{{ record.type }}"
       data-genres="{{ record.genres | join: '|' }}"
+      data-artist="{{ record.artist }}"
+      data-title="{{ record.title }}"
+      data-year="{{ record.year }}"
+      data-plays="{% if record._lastPlayedMatchRank == 2 %}{{ record.lastPlayed }}{% else %}0{% endif %}"
     >
-      <a href="{{ record.discogsUrl }}" target="_blank" rel="external">
-      <img
-        src="{{ record.cover }}"
-        alt="{{ record.artist }} &ndash; {{ record.title }} cover art"
-        loading="lazy"
-        eleventy:widths="150,300,440,600"
-      >
-      </a>
+      <figure>
+        <img
+          src="{{ record.cover }}"
+          alt="{{ record.artist }} &ndash; {{ record.title }} cover art"
+          loading="lazy"
+          eleventy:widths="150,300,440,600"
+        >
+        <figcaption>
+          <dl>
+            <div>
+              <dt>Title</dt>
+              <dd>
+                <a href="{{ record.discogsUrl }}" target="_blank" rel="external">{{ record.title }}</a>
+              </dd>
+            </div>
+            <div>
+              <dt>Artist</dt>
+              <dd>{{ record.artist }}</dd>
+            </div>
+            <div>
+              <dt>Year</dt>
+              <dd>
+                {% if record.originalYear %}
+                  {{ record.originalYear }}
+                {% elsif record.year %}
+                  {{ record.year }}
+                {% else %}
+                 Unknown
+                {% endif %}
+              </dd>
+            </div>
+            {% if record.lastPlayedLabel %}
+            <div>
+              <dt>Last played</dt>
+              <dd>{{ record.lastPlayedLabel }}</dd>
+            </div>
+            {% endif %}
+          </dl>
+        </figcaption>
+      </figure>
     </li>
     {% endfor %}
   </ol>

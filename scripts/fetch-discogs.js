@@ -86,6 +86,27 @@ function extract_type(formats) {
 	return descriptions.find((d) => KNOWN_TYPES.includes(d)) ?? 'Album'
 }
 
+const master_year_cache = new Map()
+
+// The release year (basic_information.year) is the year of this specific
+// pressing. The master release's year is the album's original release
+// year, which is what listeners usually mean by "what year is this from".
+async function get_master_year(master_id) {
+	if (!master_id) return null
+	if (master_year_cache.has(master_id)) return master_year_cache.get(master_id)
+
+	let year = null
+	try {
+		const master = await discogs_fetch(`/masters/${master_id}`)
+		year = master.year || null
+	} catch (err) {
+		console.warn(`Could not fetch master ${master_id}: ${err.message}`)
+	}
+
+	master_year_cache.set(master_id, year)
+	return year
+}
+
 async function download_cover(release_id, image_url) {
 	const destination = new URL(`${release_id}.jpg`, COVERS_DIR)
 	if (existsSync(destination)) return
@@ -129,11 +150,14 @@ async function main() {
 			await download_cover(release_id, info.cover_image)
 		}
 
+		const original_year = await get_master_year(info.master_id)
+
 		records.push({
 			releaseId: release_id,
 			artist,
 			title: info.title,
 			year: info.year || null,
+			originalYear: original_year,
 			format: info.formats?.[0]?.name ?? 'Unknown',
 			type: extract_type(info.formats),
 			genres: info.genres ?? [],

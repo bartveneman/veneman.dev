@@ -51,6 +51,13 @@ function preferVinylPlays(records) {
 	}
 }
 
+function formatDate(uts) {
+	const date = new Date(uts * 1000)
+	const dd = String(date.getDate()).padStart(2, '0')
+	const mm = String(date.getMonth() + 1).padStart(2, '0')
+	return `${dd}-${mm}-${date.getFullYear()}`
+}
+
 function loadLastfmPlays() {
 	const url = new URL('./lastfm-plays.json', import.meta.url)
 	if (!existsSync(url)) return { albums: {}, artists: {} }
@@ -83,9 +90,17 @@ export default function () {
 		const { timestamp, matchRank } = lastPlayedFor(record, plays)
 		record.lastPlayed = timestamp
 		record._lastPlayedMatchRank = matchRank
+		// The master release's original year is what listeners usually mean by
+		// "what year is this from" — prefer it over this specific pressing's year.
+		record.year = record.originalYear || record.year || 'Unknown'
 	}
 
 	preferVinylPlays(records)
+
+	for (const record of records) {
+		record.lastPlayedLabel =
+			record._lastPlayedMatchRank === 2 ? formatDate(record.lastPlayed) : null
+	}
 
 	return records.sort((a, b) => {
 		// DVDs always sink to the very bottom, even if they're the most recently played thing.

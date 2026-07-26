@@ -1,5 +1,5 @@
 {
-	"lastSyncedAt": 1785092934,
+	"lastSyncedAt": 1785101984,
 	"albums": {
 		"bigelf::hex": 1785083146,
 		"steven wilson::the raven that refused to sing": 1785074203,
@@ -12,7 +12,7 @@
 		"nick urata::paddington": 1784831044,
 		"d lime::paddington": 1784830839,
 		"die kleine egerl nder besetzung::blas musik in die welt": 1784821763,
-		"the gentle storm::the diary": 1784821525,
+		"the gentle storm::the diary": 1785101984,
 		"jacco gardner::cabinet of curiosities": 1784821278,
 		"the beatles::the beatles": 1784820992,
 		"kaiser musikanten::lebensgeister": 1784820550,
@@ -251,7 +251,7 @@
 		"empire of the sun::walking on a dream": 1782330026,
 		"ruben hein::dressed up": 1782329758,
 		"r e m::automatic for the people": 1782328793,
-		"genesis::invisible touch": 1782326342,
+		"genesis::invisible touch": 1785101860,
 		"spin doctors::pocket full of kryptonite": 1782322012,
 		"eiffel 65::blue": 1782321057,
 		"the blues brothers::the blues brothers original motion picture soundtrack": 1782319925,
@@ -1804,20 +1804,23 @@
 		"novastar::novastar": 1785084598,
 		"abel::de stilte voorbij": 1785084150,
 		"ilse delange::livin on love": 1785083960,
-		"danny vera::pressure makes diamonds": 1785083686
+		"danny vera::pressure makes diamonds": 1785083686,
+		"baby condor::baby condor": 1785100955,
+		"vincent veneman::10": 1785093740,
+		"wings::band on the run": 1785101771
 	},
 	"artists": {
 		"bigelf": 1785083146,
 		"steven wilson": 1785074203,
 		"paul mccartney": 1785070773,
-		"wings": 1785069609,
+		"wings": 1785101771,
 		"the fireman": 1785068342,
 		"adele": 1785065616,
 		"ruben hein": 1785062923,
 		"nick urata": 1784831044,
 		"d lime": 1784830839,
 		"die kleine egerl nder besetzung": 1784821763,
-		"the gentle storm": 1784821525,
+		"the gentle storm": 1785101984,
 		"jacco gardner": 1784821278,
 		"the beatles": 1784820992,
 		"kaiser musikanten": 1784820550,
@@ -1850,7 +1853,7 @@
 		"yes": 1784733095,
 		"queen": 1784732403,
 		"the alan parsons project": 1784732100,
-		"genesis": 1784731843,
+		"genesis": 1785101860,
 		"pink floyd": 1784731166,
 		"electric light orchestra": 1784730331,
 		"rowwen h ze": 1784623521,
@@ -2746,6 +2749,8 @@
 		"calum scott": 1785085905,
 		"twarres": 1785085445,
 		"novastar": 1785084598,
-		"abel": 1785084150
+		"abel": 1785084150,
+		"baby condor": 1785100955,
+		"vincent veneman": 1785093740
 	}
 }
