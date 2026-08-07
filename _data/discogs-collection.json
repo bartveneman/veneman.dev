@@ -5817,6 +5817,27 @@
 		"dateAdded": "2026-07-20T13:10:52-07:00"
 	},
 	{
+		"releaseId": 3944660,
+		"artist": "Gerry Rafferty",
+		"title": "Can I Have My Money Back?",
+		"year": 1971,
+		"originalYear": 1971,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rock",
+			"Classic Rock"
+		],
+		"cover": "/img/discogs/3944660.jpg",
+		"discogsUrl": "https://www.discogs.com/release/3944660",
+		"featured": false,
+		"dateAdded": "2026-08-05T10:36:39-07:00"
+	},
+	{
 		"releaseId": 26087104,
 		"artist": "Steven Wilson",
 		"title": "The Raven That Refused To Sing (And Other Stories)",
@@ -6315,6 +6336,25 @@
 		"discogsUrl": "https://www.discogs.com/release/657728",
 		"featured": true,
 		"dateAdded": "2026-07-24T09:56:38-07:00"
+	},
+	{
+		"releaseId": 1705849,
+		"artist": "Gerry Rafferty",
+		"title": "Gerry Rafferty",
+		"year": 1978,
+		"originalYear": 1974,
+		"format": "Vinyl",
+		"type": "Compilation",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/1705849.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1705849",
+		"featured": false,
+		"dateAdded": "2026-08-05T10:39:40-07:00"
 	},
 	{
 		"releaseId": 3161426,
