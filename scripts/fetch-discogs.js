@@ -1,4 +1,4 @@
-import { mkdirSync, existsSync, writeFileSync } from 'node:fs'
+import { mkdirSync, existsSync, writeFileSync, readFileSync } from 'node:fs'
 import { setTimeout as sleep } from 'node:timers/promises'
 
 const TOKEN = process.env.DISCOGS_TOKEN
@@ -124,8 +124,17 @@ async function download_cover(release_id, image_url) {
 	await sleep(RATE_LIMIT_DELAY_MS)
 }
 
+function load_existing_records() {
+	if (!existsSync(COLLECTION_JSON)) return new Map()
+	const existing = JSON.parse(readFileSync(COLLECTION_JSON, 'utf8'))
+	return new Map(existing.map((record) => [record.releaseId, record]))
+}
+
 async function main() {
 	mkdirSync(COVERS_DIR, { recursive: true })
+
+	const existing_records = load_existing_records()
+	console.log(`Loaded ${existing_records.size} cached records from ${COLLECTION_JSON.pathname}`)
 
 	const username = await get_username()
 	console.log(`Fetching Discogs collection for ${username}...`)
@@ -150,7 +159,11 @@ async function main() {
 			await download_cover(release_id, info.cover_image)
 		}
 
-		const original_year = await get_master_year(info.master_id)
+		const cached = existing_records.get(release_id)
+		const original_year =
+			cached && cached.originalYear !== undefined
+				? cached.originalYear
+				: await get_master_year(info.master_id)
 
 		records.push({
 			releaseId: release_id,
