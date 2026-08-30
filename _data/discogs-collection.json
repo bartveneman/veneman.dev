@@ -3055,6 +3055,25 @@
 		"dateAdded": "2026-07-19T13:06:19-07:00"
 	},
 	{
+		"releaseId": 486351,
+		"artist": "Arjen Anthony Lucassen's Star One",
+		"title": "Space Metal",
+		"year": 2002,
+		"originalYear": 2002,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Progressive Metal"
+		],
+		"cover": "/img/discogs/486351.jpg",
+		"discogsUrl": "https://www.discogs.com/release/486351",
+		"featured": false,
+		"dateAdded": "2026-08-27T01:33:09-07:00"
+	},
+	{
 		"releaseId": 499046,
 		"artist": "Ayreon",
 		"title": "The Human Equation",
@@ -5715,6 +5734,26 @@
 		"discogsUrl": "https://www.discogs.com/release/2975309",
 		"featured": false,
 		"dateAdded": "2026-07-19T13:45:30-07:00"
+	},
+	{
+		"releaseId": 7525802,
+		"artist": "Namika",
+		"title": "Nador",
+		"year": 2015,
+		"originalYear": null,
+		"format": "CD",
+		"type": "Album",
+		"genres": [
+			"Hip Hop",
+			"Pop"
+		],
+		"styles": [
+			"Pop Rap"
+		],
+		"cover": "/img/discogs/7525802.jpg",
+		"discogsUrl": "https://www.discogs.com/release/7525802",
+		"featured": false,
+		"dateAdded": "2026-08-27T01:33:10-07:00"
 	},
 	{
 		"releaseId": 3657037,
