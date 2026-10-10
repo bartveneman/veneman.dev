@@ -482,7 +482,7 @@
 	{
 		"releaseId": 6786297,
 		"artist": "3JS",
-		"title": "Dromers en Dwazen",
+		"title": "Dromers En Dwazen",
 		"year": 2010,
 		"originalYear": 2010,
 		"format": "CD",
@@ -1141,6 +1141,27 @@
 		"dateAdded": "2026-07-20T12:19:40-07:00"
 	},
 	{
+		"releaseId": 1600753,
+		"artist": "Peter Fox (2)",
+		"title": "Stadtaffe",
+		"year": 2008,
+		"originalYear": 2008,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Hip Hop",
+			"Reggae"
+		],
+		"styles": [
+			"Dancehall",
+			"Ragga"
+		],
+		"cover": "/img/discogs/1600753.jpg",
+		"discogsUrl": "https://www.discogs.com/release/1600753",
+		"featured": false,
+		"dateAdded": "2026-10-10T03:16:30-07:00"
+	},
+	{
 		"releaseId": 18888616,
 		"artist": "Höllenboer",
 		"title": "Mu'j Goed Kiek'n Wa'k Zeg",
@@ -1274,6 +1295,30 @@
 		"discogsUrl": "https://www.discogs.com/release/14127446",
 		"featured": false,
 		"dateAdded": "2026-07-19T08:59:56-07:00"
+	},
+	{
+		"releaseId": 13260578,
+		"artist": "Yola (4)",
+		"title": "Walk Through Fire",
+		"year": 2019,
+		"originalYear": 2019,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Funk / Soul",
+			"Blues",
+			"Folk, World, & Country"
+		],
+		"styles": [
+			"Soul",
+			"Country",
+			"Country Blues",
+			"Contemporary R&B"
+		],
+		"cover": "/img/discogs/13260578.jpg",
+		"discogsUrl": "https://www.discogs.com/release/13260578",
+		"featured": false,
+		"dateAdded": "2026-10-10T03:17:29-07:00"
 	},
 	{
 		"releaseId": 3104604,
@@ -3641,7 +3686,7 @@
 	},
 	{
 		"releaseId": 6984115,
-		"artist": "Boudewijn De Groot",
+		"artist": "Boudewijn de Groot",
 		"title": "Het Beste Van Boudewijn De Groot",
 		"year": null,
 		"originalYear": 1990,
@@ -6113,6 +6158,25 @@
 		"discogsUrl": "https://www.discogs.com/release/2108537",
 		"featured": false,
 		"dateAdded": "2026-01-14T01:10:22-08:00"
+	},
+	{
+		"releaseId": 27753057,
+		"artist": "Ilse DeLange",
+		"title": "The Great Escape",
+		"year": 2023,
+		"originalYear": 2006,
+		"format": "Vinyl",
+		"type": "Album",
+		"genres": [
+			"Rock"
+		],
+		"styles": [
+			"Pop Rock"
+		],
+		"cover": "/img/discogs/27753057.jpg",
+		"discogsUrl": "https://www.discogs.com/release/27753057",
+		"featured": false,
+		"dateAdded": "2026-10-10T03:15:01-07:00"
 	},
 	{
 		"releaseId": 1502820,
